@@ -1,3 +1,1 @@
-from delete_me import test
-
-print(test.dl)
+from my_cli import cli_url
