@@ -1,0 +1,4 @@
+Liste af emails. Brugt oprindeligt til at skanne for linier med snabel a! I exercise 2:
+test@test.dk
+forkert.forkert.dk
+lol@gmail.com

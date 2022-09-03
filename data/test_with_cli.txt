@@ -1,0 +1,3 @@
+/data/: bones_in_london.txt country_codes.csv delete_me.txt emailsEx2.txt ex2data1b.txt
+/data/.ipynb_checkpoints/: 
+/data/markdowns/: test1.MD test2.MD test3.MD
