@@ -1,4 +1,4 @@
 {
   "python.formatting.provider": "autopep8",
-  "python.analysis.extraPaths": ["./my_modules/mine_sweeper"]
+  "python.analysis.extraPaths": ["./my_modules/mine_sweeper", "./my_modules"]
 }
