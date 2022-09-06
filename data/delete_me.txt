@@ -1,3 +1,1 @@
-/my_modules/: names_list.py test2.py __init__.py
-/my_modules/ex2/: file_handler.py utils.py __init__.py
-/my_modules/__pycache__/: names_list.cpython-310.pyc test1.cpython-310.pyc test2.cpython-310.pyc webget.cpython-310.pyc __init__.cpython-310.pyc
+/my_modules/: dict_comprehension.py names_list.py test2.py __init__.py
