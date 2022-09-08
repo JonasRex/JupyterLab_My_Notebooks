@@ -17,9 +17,15 @@ class Student():
             ds=self.data_sheet,
             url=self.image_url
             )
+    def __iter__(self):
+        return iter([self.name, self.gender, self.data_sheet, self.image_url])
     
     def get_avg_grade(self):
         grades = self.data_sheet.get_grades_as_list()
+        
+        return sum(grades) / len(grades)
+    
+    def get_avg_grade_by_list(self, grades):
         
         return sum(grades) / len(grades)
         
@@ -27,10 +33,11 @@ class Student():
 class DataSheet():
     
     def __init__(self, courses=[]):
-        self.courses = []
-        for course in courses:
-            new_course = Course(course.name, course.classroom, course.teacher, course.ETCS, course.grade)
-            self.courses.append(new_course)
+        self.courses = courses
+        #self.courses = []
+        #for course in courses:
+        #    new_course = Course(course.name, course.classroom, course.teacher, course.ETCS, course.grade)
+        #    self.courses.append(new_course)
     
     def __repr__(self) -> str:
         return 'DataSheet(%r)' % (self.courses)   
@@ -38,6 +45,10 @@ class DataSheet():
     def __str__(self) -> str:
         return '{courses}'.format(
             courses=self.courses)
+        
+    def __iter__(self):
+        return iter(self.courses)
+        
     def get_grades_as_list(self):
         return list([course.grade for course in self.courses])
 
@@ -61,3 +72,6 @@ class Course():
             ETCS=self.ETCS,
             grade=self.grade
             )
+        
+    def __iter__(self):
+        return iter([self.name, self.classroom, self.teacher, self.ETCS, self.grade])
