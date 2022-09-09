@@ -36,5 +36,8 @@ def create_n_number_of_students(n):
 
 
 def assign_random_grades():
-    # TODO: Make it less likely to return failing grades
-    return get_rand(GRADES)
+    # Made it less likely to return failing grades. If 2 or lower do a reroll once. Can technically still roll a failing grade again
+    grade = get_rand(GRADES)
+    if grade <= 2:
+        return get_rand(GRADES)
+    return grade

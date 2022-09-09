@@ -24,9 +24,7 @@ class Student():
         grades = self.data_sheet.get_grades_as_list()
         
         return sum(grades) / len(grades)
-    
 
-        
 
 class DataSheet():
     
@@ -49,6 +47,7 @@ class DataSheet():
         
     def get_grades_as_list(self):
         return list([int(course.grade) for course in self.courses])
+
 
 class Course():
     
