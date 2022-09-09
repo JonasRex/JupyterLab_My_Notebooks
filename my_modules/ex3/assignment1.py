@@ -25,9 +25,7 @@ class Student():
         
         return sum(grades) / len(grades)
     
-    def get_avg_grade_by_list(self, grades):
-        
-        return sum(grades) / len(grades)
+
         
 
 class DataSheet():
@@ -50,7 +48,7 @@ class DataSheet():
         return iter(self.courses)
         
     def get_grades_as_list(self):
-        return list([course.grade for course in self.courses])
+        return list([int(course.grade) for course in self.courses])
 
 class Course():
     

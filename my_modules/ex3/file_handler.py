@@ -1,6 +1,4 @@
 import csv
-from re import S
-from turtle import st
 from my_modules.ex3.assignment1 import *
 
 def write_students_to_csv_file(output_file, lst):            
@@ -30,12 +28,13 @@ def write_students_to_csv_file_by_courses(output_file, student_list):
                 
 
 def read_students_from_csv_file_by_courses(input_file):
+    """Handle a line for each of the students courses. So one student have one line for each course. Returns list of all the students in the input file"""
     with open(input_file) as stream:
         reader = csv.reader(stream, delimiter=";")
         student_objs = []
         names_already_created = set()
         
-        rows = [row for row in reader]
+        rows = [rows for rows in reader]
         for row in rows[1:]:
             # First create the student, with empty datasheet. ONLY: if the student is not created already
             if not row[0] in names_already_created:
@@ -53,11 +52,4 @@ def read_students_from_csv_file_by_courses(input_file):
                     so.data_sheet.courses.append(new_course)
     
         return student_objs
-            
-    
-
-
-
-
-        
             
