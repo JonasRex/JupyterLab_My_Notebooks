@@ -22,8 +22,9 @@ class Student():
     
     def get_avg_grade(self):
         grades = self.data_sheet.get_grades_as_list()
-        
-        return sum(grades) / len(grades)
+        # Return float with only 2 decimal points
+        return float("{:.2f}".format(sum(grades) / len(grades)))
+    
 
 
 class DataSheet():
@@ -47,6 +48,10 @@ class DataSheet():
         
     def get_grades_as_list(self):
         return list([int(course.grade) for course in self.courses])
+    
+    def get_total_ETCS(self):
+        return sum([int(course.ETCS) for course in self.courses])
+    
 
 
 class Course():

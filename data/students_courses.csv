@@ -1,76 +1,105 @@
 name;gender;course;classroom;teacher;ETCS;grade;pic_url
-Obie Kaleb;male;English;505;Jane Foster;8;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Obie Kaleb;male;French;225;Lina Jenkins;6;2;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Obie Kaleb;male;Spanish;200;Jerry Larson;6;10;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Allan Xander;male;English;505;Jane Foster;8;12;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Allan Xander;male;German;222;Michael Schultze;6;7;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Allan Xander;male;Math;111;John Watkins;10;4;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Allan Xander;male;Biology;331;Liz Johnson;8;10;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Yannis Larry;male;French;225;Lina Jenkins;6;10;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Yannis Larry;male;Biology;331;Liz Johnson;8;2;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Yannis Larry;male;Math;111;John Watkins;10;10;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Yannis Larry;male;English;505;Jane Foster;8;7;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Steve Yannis;male;Math;111;John Watkins;10;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Steve Yannis;male;English;505;Jane Foster;8;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Steve Yannis;male;Spanish;200;Jerry Larson;6;12;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Steve Yannis;male;Biology;331;Liz Johnson;8;10;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Steve Yannis;male;German;222;Michael Schultze;6;10;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Freddy Timmy;male;Spanish;200;Jerry Larson;6;12;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Freddy Timmy;male;French;225;Lina Jenkins;6;10;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Freddy Timmy;male;English;505;Jane Foster;8;4;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Igor Freddy;male;German;222;Michael Schultze;6;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Igor Freddy;male;Chemistry;325;Reese Witherspoon;8;2;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Igor Freddy;male;English;505;Jane Foster;8;10;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Yannis Henry;male;Chemistry;325;Reese Witherspoon;8;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Yannis Henry;male;Spanish;200;Jerry Larson;6;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Yannis Henry;male;French;225;Lina Jenkins;6;10;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Yannis Henry;male;English;505;Jane Foster;8;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Zasou Igor;male;Math;111;John Watkins;10;4;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
-Zasou Igor;male;English;505;Jane Foster;8;7;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
-Zasou Igor;male;Chemistry;325;Reese Witherspoon;8;7;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
-Zasou Igor;male;French;225;Lina Jenkins;6;12;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
-Steve Umar;male;Spanish;200;Jerry Larson;6;10;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Steve Umar;male;Math;111;John Watkins;10;4;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Steve Umar;male;Biology;331;Liz Johnson;8;7;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Obie Charlie;male;Chemistry;325;Reese Witherspoon;8;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Obie Charlie;male;Math;111;John Watkins;10;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Obie Charlie;male;German;222;Michael Schultze;6;10;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
-Allan Manny;male;Spanish;200;Jerry Larson;6;-3;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Allan Manny;male;Chemistry;325;Reese Witherspoon;8;7;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Allan Manny;male;Biology;331;Liz Johnson;8;2;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Allan Manny;male;Math;111;John Watkins;10;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
-Freddy Rudy;male;German;222;Michael Schultze;6;2;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Freddy Rudy;male;French;225;Lina Jenkins;6;12;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Freddy Rudy;male;Biology;331;Liz Johnson;8;7;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Eric Timmy;male;Biology;331;Liz Johnson;8;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Eric Timmy;male;Chemistry;325;Reese Witherspoon;8;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Eric Timmy;male;Spanish;200;Jerry Larson;6;10;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Eric Timmy;male;French;225;Lina Jenkins;6;10;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Henry Victor;male;Math;111;John Watkins;10;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Henry Victor;male;Spanish;200;Jerry Larson;6;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Henry Victor;male;Chemistry;325;Reese Witherspoon;8;4;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Henry Victor;male;French;225;Lina Jenkins;6;2;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Henry Victor;male;Biology;331;Liz Johnson;8;10;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Obie Bo;male;Spanish;200;Jerry Larson;6;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Obie Bo;male;Math;111;John Watkins;10;4;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Obie Bo;male;German;222;Michael Schultze;6;0;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Obie Bo;male;French;225;Lina Jenkins;6;4;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-George Xander;male;English;505;Jane Foster;8;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-George Xander;male;Chemistry;325;Reese Witherspoon;8;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-George Xander;male;German;222;Michael Schultze;6;10;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Manny Timmy;male;English;505;Jane Foster;8;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Manny Timmy;male;Math;111;John Watkins;10;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Manny Timmy;male;Spanish;200;Jerry Larson;6;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Manny Timmy;male;Chemistry;325;Reese Witherspoon;8;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Henry Zasou;male;Chemistry;325;Reese Witherspoon;8;2;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
-Henry Zasou;male;German;222;Michael Schultze;6;4;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
-Henry Zasou;male;English;505;Jane Foster;8;12;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
-Henry Zasou;male;Biology;331;Liz Johnson;8;10;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
-Rudy Steve;male;French;225;Lina Jenkins;6;10;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Rudy Steve;male;German;222;Michael Schultze;6;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Rudy Steve;male;Chemistry;325;Reese Witherspoon;8;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Rudy Steve;male;Math;111;John Watkins;10;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
-Demetri Rudy;male;French;225;Lina Jenkins;6;7;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Demetri Rudy;male;English;505;Jane Foster;8;2;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Demetri Rudy;male;German;222;Michael Schultze;6;12;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
-Demetri Rudy;male;Chemistry;325;Reese Witherspoon;8;7;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+Rudy Schneider;male;English B;501;Tina Fey;14;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Rudy Schneider;male;Spanish A;440;Jerry Larson;20;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Rudy Schneider;male;French A;409;Lina Jenkins;20;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Rudy Schneider;male;Math B;101;Burt Johnson;16;4;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Rudy Schneider;male;Biology A;331;Liz Johnson;22;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Umar Smith;male;Spanish B;432;Don Heguin;12;12;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Umar Smith;male;German A;222;Michael Schultze;18;7;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Umar Smith;male;English B;501;Tina Fey;14;10;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Umar Smith;male;Chemistry B;301;Ben Wilson;16;12;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Umar Smith;male;Math A;111;John Watkins;24;0;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Igor Müller;male;German B;202;Henke Müller;12;12;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Igor Müller;male;English B;501;Tina Fey;14;12;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Igor Müller;male;Biology A;331;Liz Johnson;22;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Igor Müller;male;Spanish B;432;Don Heguin;12;2;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Igor Müller;male;Spanish A;440;Jerry Larson;20;12;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Freddy Murphy;male;Biology B;321;John Henson;14;2;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Freddy Murphy;male;German A;222;Michael Schultze;18;10;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Freddy Murphy;male;Math A;111;John Watkins;24;4;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Freddy Murphy;male;English A;505;Jane Foster;20;12;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Freddy Murphy;male;French A;409;Lina Jenkins;20;2;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Freddy Murphy;male;Biology A;331;Liz Johnson;22;4;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Zasou Schmidt;male;Math A;111;John Watkins;24;10;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Zasou Schmidt;male;Chemistry A;305;Reese Witherspoon;22;12;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Zasou Schmidt;male;German A;222;Michael Schultze;18;0;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Zasou Schmidt;male;German B;202;Henke Müller;12;12;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Zasou Schmidt;male;Biology B;321;John Henson;14;7;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Zasou Schmidt;male;English B;501;Tina Fey;14;7;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Zasou Schmidt;male;Biology A;331;Liz Johnson;22;7;https://image.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg
+Eric Murphy;male;English B;501;Tina Fey;14;10;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Eric Murphy;male;Biology A;331;Liz Johnson;22;2;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Eric Murphy;male;Chemistry B;301;Ben Wilson;16;-3;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Eric Murphy;male;German A;222;Michael Schultze;18;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Peter Larson;male;Math B;101;Burt Johnson;16;7;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Peter Larson;male;Spanish A;440;Jerry Larson;20;0;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Peter Larson;male;Math A;111;John Watkins;24;7;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Peter Larson;male;Biology B;321;John Henson;14;4;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Freddy Anderson;male;Chemistry B;301;Ben Wilson;16;4;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Freddy Anderson;male;Spanish A;440;Jerry Larson;20;2;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Freddy Anderson;male;English A;505;Jane Foster;20;10;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Freddy Anderson;male;Biology A;331;Liz Johnson;22;-3;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Larry Murphy;male;German B;202;Henke Müller;12;12;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Larry Murphy;male;Math B;101;Burt Johnson;16;4;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Larry Murphy;male;English B;501;Tina Fey;14;10;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Larry Murphy;male;French A;409;Lina Jenkins;20;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Larry Murphy;male;Math A;111;John Watkins;24;2;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Larry Murphy;male;Chemistry A;305;Reese Witherspoon;22;7;https://img.freepik.com/free-photo/front-view-male-student-dark-t-shirt-yellow-backpack-holding-files-books-smiling-light-blue-wall_140725-46715.jpg?w=2000
+Manny Jones;male;Biology A;331;Liz Johnson;22;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Manny Jones;male;Math A;111;John Watkins;24;4;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Manny Jones;male;Biology B;321;John Henson;14;4;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Manny Jones;male;Math B;101;Burt Johnson;16;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Manny Jones;male;English B;501;Tina Fey;14;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Manny Jones;male;German B;202;Henke Müller;12;10;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Rudy White;male;Biology A;331;Liz Johnson;22;7;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Rudy White;male;Spanish A;440;Jerry Larson;20;-3;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Rudy White;male;German B;202;Henke Müller;12;10;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Rudy White;male;French A;409;Lina Jenkins;20;2;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Rudy White;male;English B;501;Tina Fey;14;12;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Rudy White;male;German A;222;Michael Schultze;18;10;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Larry Larson;male;German B;202;Henke Müller;12;2;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Larry Larson;male;Biology A;331;Liz Johnson;22;7;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Larry Larson;male;Chemistry B;301;Ben Wilson;16;10;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Larry Larson;male;French B;404;Sylvia Laurent;14;10;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Larry Larson;male;Spanish B;432;Don Heguin;12;2;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Larry Larson;male;French A;409;Lina Jenkins;20;4;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+George Brown;male;English B;501;Tina Fey;14;12;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+George Brown;male;Biology A;331;Liz Johnson;22;4;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+George Brown;male;German A;222;Michael Schultze;18;10;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+George Brown;male;Chemistry B;301;Ben Wilson;16;4;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+George Brown;male;Math A;111;John Watkins;24;10;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+Steve Brown;male;Math A;111;John Watkins;24;4;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Steve Brown;male;Spanish B;432;Don Heguin;12;7;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Steve Brown;male;French A;409;Lina Jenkins;20;2;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Steve Brown;male;English B;501;Tina Fey;14;10;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Steve Brown;male;German A;222;Michael Schultze;18;12;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Steve Brown;male;Biology A;331;Liz Johnson;22;-3;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Nicholas Wagner;male;German B;202;Henke Müller;12;2;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Wagner;male;Math A;111;John Watkins;24;10;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Wagner;male;Chemistry B;301;Ben Wilson;16;10;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Wagner;male;Spanish B;432;Don Heguin;12;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Wagner;male;English B;501;Tina Fey;14;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Henry Roberts;male;Biology B;321;John Henson;14;4;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+Henry Roberts;male;Biology A;331;Liz Johnson;22;4;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+Henry Roberts;male;French B;404;Sylvia Laurent;14;2;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+Henry Roberts;male;Spanish B;432;Don Heguin;12;7;https://thumbs.dreamstime.com/b/photo-image-portrait-funny-attractive-cute-young-asian-student-white-shirt-smiling-pointing-forward-side-view-isolated-104697224.jpg
+Manny Gundersen;male;Spanish B;432;Don Heguin;12;12;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Manny Gundersen;male;Biology A;331;Liz Johnson;22;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Manny Gundersen;male;Biology B;321;John Henson;14;2;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Manny Gundersen;male;Chemistry A;305;Reese Witherspoon;22;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Victor Wilson;male;English A;505;Jane Foster;20;0;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Victor Wilson;male;English B;501;Tina Fey;14;4;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Victor Wilson;male;French A;409;Lina Jenkins;20;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Victor Wilson;male;Spanish B;432;Don Heguin;12;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Victor Wilson;male;German A;222;Michael Schultze;18;7;https://www.kindpng.com/picc/m/57-574905_black-college-student-png-transparent-png.png
+Yannis Johnson;male;French B;404;Sylvia Laurent;14;2;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Yannis Johnson;male;Biology B;321;John Henson;14;4;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Yannis Johnson;male;Spanish A;440;Jerry Larson;20;7;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Yannis Johnson;male;English A;505;Jane Foster;20;12;https://st.depositphotos.com/1199142/1784/i/600/depositphotos_17840989-stock-photo-young-happy-student-carrying-books.jpg
+Nicholas Fischer;male;English A;505;Jane Foster;20;0;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Fischer;male;Math B;101;Burt Johnson;16;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Fischer;male;Biology B;321;John Henson;14;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Fischer;male;Biology A;331;Liz Johnson;22;7;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Fischer;male;Chemistry B;301;Ben Wilson;16;2;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Fischer;male;German A;222;Michael Schultze;18;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=
+Nicholas Fischer;male;French A;409;Lina Jenkins;20;4;https://media.istockphoto.com/photos/happy-smiling-student-with-his-notebook-and-backpack-picture-id452257843?k=20&m=452257843&s=612x612&w=0&h=CO5tQouEz8Gwo0t0A4AK3EGss0TDDFFB4oahJHqjRqs=

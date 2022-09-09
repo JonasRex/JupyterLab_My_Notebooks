@@ -11,8 +11,8 @@ def get_rand(lst):
 def get_rand_datasheet():
     """Generates a datasheet with minimum 3 courses (max 5)"""
     courses = []
-    # Finding 3 - 5 unique courses
-    while len(courses) <= randint(3, 5) - 1:
+    # Finding 4 - 7 unique courses
+    while len(courses) <= randint(4, 7) - 1:
         c = get_rand(COURSES)
         # Check if course already has been selected
         if not c in courses:
@@ -28,7 +28,7 @@ def get_rand_datasheet():
 def create_n_number_of_students(n):
     students = []
     for i in range(n):
-        name = f'{get_rand(MALE_NAMES)} {get_rand(MALE_NAMES)}'
+        name = f'{get_rand(MALE_NAMES)} {get_rand(LAST_NAMES)}'
         datasheet = get_rand_datasheet()
         student = Student(name, "male", datasheet, get_rand(PIC_URLS_MALES))
         students.append(student)
@@ -41,3 +41,31 @@ def assign_random_grades():
     if grade <= 2:
         return get_rand(GRADES)
     return grade
+
+
+class NotEnoughStudentsException(Exception):
+    def __init__(self, top, limit):
+        self.top = top
+        self.limit = limit
+        self.message = f'Not enough students found in top: {top}, with a ETCS score higher than: {limit}!'
+        super().__init__(self.message)
+   
+
+def closest_to_finishing(students, top=3, limit=120):
+    sorted_by_ETCS = sorted(students, key=lambda x: x.data_sheet.get_total_ETCS(), reverse=True)
+    closest_to_finish = [student for student in sorted_by_ETCS if student.data_sheet.get_total_ETCS() >= limit ]
+    try:
+        # Checks if the final candidate qualifies or not. 
+        if len(closest_to_finish) >= top:
+            return closest_to_finish[:top]
+        else:
+            raise NotEnoughStudentsException(top, limit)
+    except (NotEnoughStudentsException) as e:
+        print(e)
+    
+        
+
+
+
+
+
