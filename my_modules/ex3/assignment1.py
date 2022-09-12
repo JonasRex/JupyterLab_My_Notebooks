@@ -77,3 +77,7 @@ class Course():
         
     def __iter__(self):
         return iter([self.name, self.classroom, self.teacher, self.ETCS, self.grade])
+    
+    
+if __name__ == '__main__':
+    print("Example: ", Student("Jens Jessen", "male", [], "blank"))

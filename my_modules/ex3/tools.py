@@ -1,6 +1,6 @@
 from random import randint
-from my_modules.ex3.ex3_data import *
-from my_modules.ex3.assignment1 import *
+import argparse
+
 
 
 def get_rand(lst):
@@ -64,7 +64,20 @@ def closest_to_finishing(students, top=3, limit=120):
         print(e)
     
         
-
+if __name__ == '__main__':
+    from ex3_data import *
+    from assignment1 import *
+    
+    parser = argparse.ArgumentParser(description='A program that creates n amount of students with a datasheet')
+    parser.add_argument('amount', help='Input number of students to create')
+    
+    args = parser.parse_args()
+    
+    
+    print(create_n_number_of_students(int(args.amount)))
+else:
+    from my_modules.ex3.ex3_data import *
+    from my_modules.ex3.assignment1 import *
 
 
 

@@ -1,5 +1,5 @@
 import csv
-from my_modules.ex3.assignment1 import *
+
 
 def write_students_to_csv_file(output_file, lst):            
     with open(f'data/{output_file}', 'w') as stream:
@@ -12,7 +12,7 @@ def read_students_from_csv_file(input_file):
     """Doesnt work.."""
     with open(input_file) as stream:
         reader = csv.reader(stream, delimiter=";")
-        return [Student(*row) for row in reader]
+        return [Student(*row[1:]) for row in reader]
                   
             
 def write_students_to_csv_file_by_courses(output_file, student_list):
@@ -52,4 +52,19 @@ def read_students_from_csv_file_by_courses(input_file):
                     so.data_sheet.courses.append(new_course)
     
         return student_objs
+    
+    
+    
+def write_three_closest_to_finish(student_list, output_file='close_to_completion.csv'):
+    with open(f'data/{output_file}', 'w') as stream:
+        writer = csv.writer(stream, delimiter=";")
+        writer.writerow(["name", "gender", "datasheet", "image_url"])
+        for student in student_list:
+            writer.writerow(student)
+    print(f'{output_file} been added to data folder')
             
+if __name__ == '__main__':
+    from assignment1 import *
+    print(read_students_from_csv_file_by_courses("data/students_courses.csv"))
+else:
+    from my_modules.ex3.assignment1 import *
