@@ -58,7 +58,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1959,57,Hawaiian Wedding Song,Andy Williams,,/wiki/Hawaiian_Wedding_Song
 1959,58,Forty Miles of Bad Road,Duane Eddy,,/wiki/Forty_Miles_of_Bad_Road
 1959,59,Just Ask Your Heart,Frankie Avalon,,/wiki/Just_Ask_Your_Heart
-1959,60,Tell Him No,Travis and Bob,,/wiki/Tell_Him_No
+1959,60,Tell Him No,Travis,Bob,/wiki/Tell_Him_No
 1959,61,Frankie,Connie Francis,,/wiki/Frankie_(Connie_Francis_song)
 1959,62,I've Had It,The Bell Notes,,/wiki/I%27ve_Had_It_(The_Bell_Notes_song)
 1959,63,I Cried a Tear,LaVern Baker,,/wiki/I_Cried_a_Tear
@@ -79,7 +79,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1959,78,Just a Little Too Much,Ricky Nelson,,/wiki/Just_a_Little_Too_Much
 1959,79,Goodbye Baby,Jack Scott,,/wiki/Goodbye_Baby_(Jack_Scott_song)
 1959,80,Along Came Jones,The Coasters,,/wiki/Along_Came_Jones_(song)
-1959,81,Three Stars,Tommy Dee,,/wiki/Three_Stars_(song)
+1959,81,Three Stars,Tommy Dee,Carol Kay,/wiki/Three_Stars_(song)
 1959,82,A Boy Without a Girl,Frankie Avalon,,/wiki/A_Boy_Without_a_Girl
 1959,83,Sweeter Than You,Ricky Nelson,,/wiki/Sweeter_Than_You
 1959,84,It Was I,Skip & Flip,,/wiki/It_Was_I
@@ -93,7 +93,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1959,92,Kissin' Time,Bobby Rydell,,/wiki/Kissin%27_Time_(song)
 1959,93,My Wish Came True,Elvis Presley,,/wiki/My_Wish_Came_True
 1959,94,Morgen,Ivo Robić,,/wiki/Morgen_(Ivo_Robi%C4%87_song)
-1959,95,Baby Talk,Jan and Dean,,/wiki/Baby_Talk_(Jan_and_Dean_song)
+1959,95,Baby Talk,Jan,Dean,/wiki/Baby_Talk_(Jan_and_Dean_song)
 1959,96,Take a Message to Mary,The Everly Brothers,,/wiki/Take_a_Message_to_Mary
 1959,97,The Battle Hymn of the Republic,Mormon Tabernacle Choir,,/wiki/The_Battle_Hymn_of_the_Republic
 1959,98,Bongo Rock,Preston Epps,,/wiki/Bongo_Rock
@@ -160,7 +160,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1960,59,Devil or Angel,Bobby Vee,,/wiki/Devil_or_Angel
 1960,60,Down by the Station,The Four Preps,,/wiki/Down_by_the_Station
 1960,61,Forever,The Little Dippers,,/wiki/Forever_(The_Little_Dippers_song)
-1960,62,Image of a Girl,The Safaris,,/wiki/Image_of_a_Girl
+1960,62,Image of a Girl,The Safaris,The Phantom's Band,/wiki/Image_of_a_Girl
 1960,63,Kiddio,Brook Benton,,/wiki/Kiddio
 1960,64,Mission Bell,Donnie Brooks,,/wiki/Mission_Bell_(Donnie_Brooks_song)
 1960,65,I Love the Way You Love,Marv Johnson,,/wiki/I_Love_the_Way_You_Love
@@ -177,7 +177,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1960,76,Stairway to Heaven,Neil Sedaka,,/wiki/Stairway_to_Heaven_(Neil_Sedaka_song)
 1960,77,My Home Town,Paul Anka,,/wiki/My_Home_Town
 1960,78,Georgia on My Mind,Ray Charles,,/wiki/Georgia_on_My_Mind
-1960,79,Cherry Pie,Skip and Flip,,/wiki/Cherry_Pie_(Joe_Josea_song)
+1960,79,Cherry Pie,Skip,Flip,/wiki/Cherry_Pie_(Joe_Josea_song)
 1960,80,Wonderful World,Sam Cooke,,/wiki/Wonderful_World_(Sam_Cooke_song)
 1960,81,Tracy's Theme,Spencer Ross,,/wiki/Tracy%27s_Theme
 1960,82,Lady Luck,Lloyd Price,,
@@ -225,7 +225,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1961,24,Shop Around,The Miracles,,/wiki/Shop_Around
 1961,25,The Boll Weevil Song,Brook Benton,,/wiki/Boll_Weevil_(song)
 1961,26,A Hundred Pounds of Clay,Gene McDaniels,,/wiki/A_Hundred_Pounds_of_Clay
-1961,27,The Mountain's High,Dick and Dee Dee,,/wiki/The_Mountain%27s_High
+1961,27,The Mountain's High,Dick,Dee Dee,/wiki/The_Mountain%27s_High
 1961,28,Don't Worry,Marty Robbins,,/wiki/Don%27t_Worry_(Marty_Robbins_song)
 1961,29,On the Rebound,Floyd Cramer,,/wiki/On_the_Rebound
 1961,30,Portrait of My Love,Steve Lawrence,,/wiki/Portrait_of_My_Love
@@ -263,7 +263,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1961,62,Gee Whiz (Look at His Eyes),Carla Thomas,,/wiki/Gee_Whiz_(Look_at_His_Eyes)
 1961,63,Stand by Me,Ben E. King,,/wiki/Stand_by_Me_(Ben_E._King_song)
 1961,64,Spanish Harlem,Ben E. King,,/wiki/Spanish_Harlem_(song)
-1961,65,It's Gonna Work Out Fine,Ike and Tina Turner,,/wiki/It%27s_Gonna_Work_Out_Fine
+1961,65,It's Gonna Work Out Fine,Ike,Tina Turner,/wiki/It%27s_Gonna_Work_Out_Fine
 1961,66,Baby Blue,The Echoes,,/wiki/Baby_Blue_(The_Echoes_song)
 1961,67,Baby Sittin' Boogie,Buzz Clifford,,/wiki/Baby_Sittin%27_Boogie
 1961,68,Hats Off to Larry,Del Shannon,,/wiki/Hats_Off_to_Larry
@@ -348,7 +348,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1962,47,Crying in the Rain,The Everly Brothers,,/wiki/Crying_in_the_Rain
 1962,48,Al di là,Emilio Pericoli,,/wiki/Al_di_l%C3%A0
 1962,49,Shout! Shout! (Knock Yourself Out),Ernie Maresca,,/wiki/Shout!_Shout!_(Knock_Yourself_Out)
-1962,50,What's Your Name,Don and Juan,,/wiki/What%27s_Your_Name_(Don_and_Juan_song)
+1962,50,What's Your Name,Don,Juan,/wiki/What%27s_Your_Name_(Don_and_Juan_song)
 1962,51,Smoky Places,The Corsairs,,/wiki/Smoky_Places
 1962,52,Having a Party,Sam Cooke,,/wiki/Having_a_Party_(Sam_Cooke_song)
 1962,53,Green Onions,Booker T. & the M.G.'s,,/wiki/Green_Onions
@@ -382,7 +382,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1962,81,Old Rivers,Walter Brennan,,/wiki/Old_Rivers
 1962,82,Funny Way of Laughin',Burl Ives,,/wiki/Funny_Way_of_Laughin%27
 1962,83,A Swingin' Safari,Billy Vaughn,,/wiki/A_Swingin%27_Safari
-1962,84,Tell Me,Dick and Dee Dee,,
+1962,84,Tell Me,Dick,Dee Dee,
 1962,85,PT-109,Jimmy Dean,,/wiki/PT-109_(song)
 1962,86,Little Diane,Dion,,/wiki/Little_Diane
 1962,87,Percolator (Twist),Billy Joe and the Checkmates,,
@@ -396,7 +396,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1962,95,Where Have All the Flowers Gone?,The Kingston Trio,,/wiki/Where_Have_All_the_Flowers_Gone%3F
 1962,96,"(Girls, Girls, Girls) Made to Love",Eddie Hodges,,
 1962,97,Town Without Pity,Gene Pitney,,/wiki/Town_Without_Pity_(song)
-1962,98,If I Had a Hammer,"Peter, Paul and Mary",,/wiki/If_I_Had_a_Hammer
+1962,98,If I Had a Hammer,"Peter, Paul",Mary,/wiki/If_I_Had_a_Hammer
 1962,99,I Wish That We Were Married,Ronnie & the Hi-Lites,,
 1962,100,Surfin' Safari,The Beach Boys,,/wiki/Surfin%27_Safari_(song)
 1963,1,Sugar Shack,Jimmy Gilmer and the Fireballs,,/wiki/Sugar_Shack
@@ -405,7 +405,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1963,4,Rhythm of the Rain,The Cascades,,/wiki/Rhythm_of_the_Rain
 1963,5,He's So Fine,The Chiffons,,/wiki/He%27s_So_Fine
 1963,6,Blue Velvet,Bobby Vinton,,/wiki/Blue_Velvet_(song)
-1963,7,Hey Paula,Paul and Paula,,/wiki/Hey_Paula_(song)
+1963,7,Hey Paula,Paul,Paula,/wiki/Hey_Paula_(song)
 1963,8,Fingertips,Stevie Wonder,,/wiki/Fingertips
 1963,9,Washington Square,The Village Stompers,,/wiki/Washington_Square_(composition)
 1963,10,It's All Right,The Impressions,,/wiki/It%27s_All_Right_(The_Impressions_song)
@@ -414,19 +414,19 @@ Year,Place,Title,Artist,Featuring,Title_url
 1963,13,Sukiyaki,Kyu Sakamoto,,/wiki/Sukiyaki_(song)
 1963,14,She's a Fool,Lesley Gore,,/wiki/She%27s_a_Fool
 1963,15,So Much in Love,The Tymes,,/wiki/So_Much_in_Love
-1963,16,"Puff, the Magic Dragon","Peter, Paul and Mary",,"/wiki/Puff,_the_Magic_Dragon"
-1963,17,Blowin' in the Wind,"Peter, Paul and Mary",,/wiki/Blowin%27_in_the_Wind
-1963,18,I'm Leaving It Up to You,Dale and Grace,,/wiki/I%27m_Leaving_It_Up_to_You
+1963,16,"Puff, the Magic Dragon","Peter, Paul",Mary,"/wiki/Puff,_the_Magic_Dragon"
+1963,17,Blowin' in the Wind,"Peter, Paul",Mary,/wiki/Blowin%27_in_the_Wind
+1963,18,I'm Leaving It Up to You,Dale,Grace,/wiki/I%27m_Leaving_It_Up_to_You
 1963,19,Deep Purple,Nino Tempo & April Stevens,,/wiki/Deep_Purple_(song)
 1963,20,Wipe Out,The Surfaris,,/wiki/Wipe_Out_(instrumental)
 1963,21,I Love You Because,Al Martino,,/wiki/I_Love_You_Because_(song)
 1963,22,Wild Weekend,The Rebels,,/wiki/Wild_Weekend
 1963,23,You're the Reason I'm Living,Bobby Darin,,/wiki/You%27re_the_Reason_I%27m_Living
 1963,24,Walk Like a Man,The Four Seasons,,/wiki/Walk_Like_a_Man_(The_Four_Seasons_song)
-1963,25,Mockingbird,Inez and Charlie Foxx,,/wiki/Mockingbird_(Inez_%26_Charlie_Foxx_song)
+1963,25,Mockingbird,Inez,Charlie Foxx,/wiki/Mockingbird_(Inez_%26_Charlie_Foxx_song)
 1963,26,I Will Follow Him,Little Peggy March,,/wiki/I_Will_Follow_Him
 1963,27,Pipeline,The Chantays,,/wiki/Pipeline_(instrumental)
-1963,28,Surf City,Jan and Dean,,/wiki/Surf_City_(song)
+1963,28,Surf City,Jan,Dean,/wiki/Surf_City_(song)
 1963,29,It's My Party,Lesley Gore,,/wiki/It%27s_My_Party_(Lesley_Gore_song)
 1963,30,Blame It on the Bossa Nova,Eydie Gormé,,/wiki/Blame_It_on_the_Bossa_Nova
 1963,31,You Can't Sit Down,The Dovells,,/wiki/You_Can%27t_Sit_Down
@@ -451,7 +451,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1963,50,Candy Girl,The Four Seasons,,/wiki/Candy_Girl_(The_Four_Seasons_song)
 1963,51,Still,Bill Anderson,,/wiki/Still_(Bill_Anderson_song)
 1963,52,Blue on Blue,Bobby Vinton,,/wiki/Blue_on_Blue_(song)
-1963,53,Cry Baby,Garnet Mimms,,/wiki/Cry_Baby_(Garnet_Mimms_song)
+1963,53,Cry Baby,Garnet Mimms,the Enchanters,/wiki/Cry_Baby_(Garnet_Mimms_song)
 1963,54,Two Faces Have I,Lou Christie,,/wiki/Two_Faces_Have_I
 1963,55,Busted,Ray Charles,,/wiki/Busted_(Johnny_Cash_song)
 1963,56,Da Doo Ron Ron,The Crystals,,/wiki/Da_Doo_Ron_Ron
@@ -526,9 +526,9 @@ Year,Place,Title,Artist,Featuring,Title_url
 1964,25,Dawn (Go Away),The Four Seasons,,/wiki/Dawn_(Go_Away)
 1964,26,Bread and Butter,The Newbeats,,/wiki/Bread_and_Butter_(The_Newbeats_song)
 1964,27,It Hurts to Be in Love,Gene Pitney,,/wiki/It_Hurts_to_Be_in_Love
-1964,28,Dead Man's Curve,Jan and Dean,,/wiki/Dead_Man%27s_Curve_(song)
+1964,28,Dead Man's Curve,Jan,Dean,/wiki/Dead_Man%27s_Curve_(song)
 1964,29,Come a Little Bit Closer,Jay and the Americans,,/wiki/Come_a_Little_Bit_Closer
-1964,30,A World Without Love,Peter and Gordon,,/wiki/A_World_Without_Love
+1964,30,A World Without Love,Peter,Gordon,/wiki/A_World_Without_Love
 1964,31,Have I the Right?,The Honeycombs,,/wiki/Have_I_the_Right%3F
 1964,32,Don't Let the Rain Come Down (Crooked Little Man),The Serendipity Singers,,/wiki/Don%27t_Let_the_Rain_Come_Down_(Crooked_Little_Man)
 1964,33,Baby Love,The Supremes,,/wiki/Baby_Love
@@ -546,7 +546,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1964,45,Bits and Pieces,The Dave Clark Five,,/wiki/Bits_and_Pieces_(song)
 1964,46,My Boy Lollipop,Millie Small,,/wiki/My_Boy_Lollipop
 1964,47,"Um, Um, Um, Um, Um, Um",Major Lance,,"/wiki/Um,_Um,_Um,_Um,_Um,_Um"
-1964,48,The Little Old Lady from Pasadena,Jan and Dean,,/wiki/The_Little_Old_Lady_from_Pasadena
+1964,48,The Little Old Lady from Pasadena,Jan,Dean,/wiki/The_Little_Old_Lady_from_Pasadena
 1964,49,Don't Let the Sun Catch You Crying,Gerry and the Pacemakers,,/wiki/Don%27t_Let_the_Sun_Catch_You_Crying
 1964,50,A Summer Song,Chad & Jeremy,,/wiki/A_Summer_Song
 1964,51,The Girl from Ipanema,Stan Getz,Astrud Gilberto,/wiki/The_Girl_from_Ipanema
@@ -673,14 +673,14 @@ Year,Place,Title,Artist,Featuring,Title_url
 1965,72,Baby Don't Go,Sonny & Cher,,/wiki/Baby_Don%27t_Go
 1965,73,It Ain't Me Babe,The Turtles,,/wiki/It_Ain%27t_Me_Babe
 1965,74,Tell Her No,The Zombies,,/wiki/Tell_Her_No
-1965,75,I Go to Pieces,Peter and Gordon,,/wiki/I_Go_to_Pieces
+1965,75,I Go to Pieces,Peter,Gordon,/wiki/I_Go_to_Pieces
 1965,76,Red Roses for a Blue Lady,Vic Dana,,/wiki/Red_Roses_for_a_Blue_Lady
 1965,77,Don't Just Stand There,Patty Duke,,
 1965,78,The Tracks of My Tears,The Miracles,,/wiki/The_Tracks_of_My_Tears
 1965,79,Too Many Rivers,Brenda Lee,,/wiki/Too_Many_Rivers
 1965,80,I Like It Like That,The Dave Clark Five,,/wiki/I_Like_It_Like_That_(Chris_Kenner_song)
 1965,81,Little Things,Bobby Goldsboro,,/wiki/Little_Things_(Bobby_Goldsboro_song)
-1965,82,True Love Ways,Peter and Gordon,,/wiki/True_Love_Ways
+1965,82,True Love Ways,Peter,Gordon,/wiki/True_Love_Ways
 1965,83,It's the Same Old Song,Four Tops,,/wiki/It%27s_the_Same_Old_Song
 1965,84,You've Got Your Troubles,The Fortunes,,/wiki/You%27ve_Got_Your_Troubles
 1965,85,Hold What You've Got,Joe Tex,,/wiki/Hold_What_You%27ve_Got
@@ -777,7 +777,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1966,76,I'm Your Puppet,James & Bobby Purify,,/wiki/I%27m_Your_Puppet
 1966,77,Land of 1000 Dances,Wilson Pickett,,/wiki/Land_of_a_Thousand_Dances
 1966,78,Oh How Happy,The Shades of Blue,,/wiki/Oh_How_Happy
-1966,79,Woman,Peter and Gordon,,/wiki/Woman_(Paul_McCartney_song)
+1966,79,Woman,Peter,Gordon,/wiki/Woman_(Paul_McCartney_song)
 1966,80,You Baby,The Turtles,,/wiki/You_Baby_(song)
 1966,81,Sweet Talkin' Guy,The Chiffons,,/wiki/Sweet_Talkin%27_Guy
 1966,82,Five O'Clock World,The Vogues,,/wiki/Five_O%27Clock_World
@@ -889,7 +889,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1967,88,I Take It Back,Sandy Posey,,/wiki/I_Take_It_Back
 1967,89,Here Comes My Baby,The Tremeloes,,/wiki/Here_Comes_My_Baby_(Cat_Stevens_song)
 1967,90,Everlasting Love,Robert Knight,,/wiki/Everlasting_Love
-1967,91,I Dig Rock and Roll Music,"Peter, Paul and Mary",,/wiki/I_Dig_Rock_and_Roll_Music
+1967,91,I Dig Rock and Roll Music,"Peter, Paul",Mary,/wiki/I_Dig_Rock_and_Roll_Music
 1967,92,"Little Ole Man (Uptight, Everything's Alright)",Bill Cosby,,"/wiki/Little_Ole_Man_(Uptight,_Everything%27s_Alright)"
 1967,93,I Had Too Much to Dream (Last Night),The Electric Prunes,,/wiki/I_Had_Too_Much_to_Dream_(Last_Night)
 1967,94,Daydream Believer,The Monkees,,/wiki/Daydream_Believer
@@ -1076,7 +1076,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1969,75,The Chokin' Kind,Joe Simon,,/wiki/The_Chokin%27_Kind
 1969,76,Smile a Little Smile for Me,The Flying Machine,,/wiki/Smile_a_Little_Smile_for_Me
 1969,77,Polk Salad Annie,Tony Joe White,,/wiki/Polk_Salad_Annie
-1969,78,"Ruby, Don't Take Your Love to Town",Kenny Rogers and The First Edition,,"/wiki/Ruby,_Don%27t_Take_Your_Love_to_Town"
+1969,78,"Ruby, Don't Take Your Love to Town",Kenny Rogers,The First Edition,"/wiki/Ruby,_Don%27t_Take_Your_Love_to_Town"
 1969,79,Games People Play,Joe South,,/wiki/Games_People_Play_(Joe_South_song)
 1969,80,You Showed Me,The Turtles,,/wiki/You_Showed_Me
 1969,81,Tracy,The Cuff Links,,/wiki/Tracy_(The_Cuff_Links_song)
@@ -1209,7 +1209,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1971,7,Go Away Little Girl,Donny Osmond,,/wiki/Go_Away_Little_Girl
 1971,8,"Take Me Home, Country Roads",John Denver,,"/wiki/Take_Me_Home,_Country_Roads"
 1971,9,Just My Imagination (Running Away with Me),The Temptations,,/wiki/Just_My_Imagination_(Running_Away_with_Me)
-1971,10,Knock Three Times,Tony Orlando and Dawn,,/wiki/Knock_Three_Times
+1971,10,Knock Three Times,Tony Orlando,Dawn,/wiki/Knock_Three_Times
 1971,11,Me and Bobby McGee,Janis Joplin,,/wiki/Me_and_Bobby_McGee
 1971,12,Tired of Being Alone,Al Green,,/wiki/Tired_of_Being_Alone
 1971,13,Want Ads,Honey Cone,,/wiki/Want_Ads
@@ -1266,11 +1266,11 @@ Year,Place,Title,Artist,Featuring,Title_url
 1971,64,She's Not Just Another Woman,8th Day,,/wiki/She%27s_Not_Just_Another_Woman
 1971,65,Bring the Boys Home,Freda Payne,,/wiki/Bring_the_Boys_Home
 1971,66,I Just Want to Celebrate,Rare Earth,,/wiki/I_Just_Want_to_Celebrate
-1971,67,Never Ending Song of Love,Delaney & Bonnie,,/wiki/Never_Ending_Song_of_Love
+1971,67,Never Ending Song of Love,Delaney & Bonnie,Friends,/wiki/Never_Ending_Song_of_Love
 1971,68,Easy Loving,Freddie Hart,,/wiki/Easy_Loving
 1971,69,Liar,Three Dog Night,,/wiki/Liar_(Russ_Ballard_song)
 1971,70,Stick-Up,Honey Cone,,/wiki/Stick-Up
-1971,71,Chirpy Chirpy Cheep Cheep,Mac and Katie Kissoon,,/wiki/Chirpy_Chirpy_Cheep_Cheep
+1971,71,Chirpy Chirpy Cheep Cheep,Mac,Katie Kissoon,/wiki/Chirpy_Chirpy_Cheep_Cheep
 1971,72,(Where Do I Begin?) Love Story,Andy Williams,,/wiki/(Where_Do_I_Begin%3F)_Love_Story
 1971,73,Wild World,Cat Stevens,,/wiki/Wild_World_(song)
 1971,74,"When You're Hot, You're Hot",Jerry Reed,,"/wiki/When_You%27re_Hot,_You%27re_Hot"
@@ -1337,7 +1337,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1972,35,Back Stabbers,The O'Jays,,/wiki/Back_Stabbers_(song)
 1972,36,Down by the Lazy River,The Osmonds,,/wiki/Down_by_the_Lazy_River
 1972,37,Sunshine,Jonathan Edwards,,/wiki/Sunshine_(Jonathan_Edwards_song)
-1972,38,Starting All Over Again,Mel and Tim,,/wiki/Starting_All_Over_Again_(Mel_%26_Tim_song)
+1972,38,Starting All Over Again,Mel,Tim,/wiki/Starting_All_Over_Again_(Mel_%26_Tim_song)
 1972,39,Day After Day,Badfinger,,/wiki/Day_After_Day_(Badfinger_song)
 1972,40,Rocket Man,Elton John,,/wiki/Rocket_Man_(song)
 1972,41,Rockin' Robin,Michael Jackson,,/wiki/Rockin%27_Robin_(song)
@@ -1368,7 +1368,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1972,66,Coconut,Harry Nilsson,,/wiki/Coconut_(song)
 1972,67,Puppy Love,Donny Osmond,,/wiki/Puppy_Love_(song)
 1972,68,You Don't Mess Around with Jim,Jim Croce,,/wiki/You_Don%27t_Mess_Around_with_Jim_(song)
-1972,69,Hot Rod Lincoln,Commander Cody and His Lost Planet Airmen,,/wiki/Hot_Rod_Lincoln
+1972,69,Hot Rod Lincoln,Commander Cody,His Lost Planet Airmen,/wiki/Hot_Rod_Lincoln
 1972,70,A Cowboy's Work Is Never Done,Sonny & Cher,,/wiki/A_Cowboy%27s_Work_Is_Never_Done
 1972,71,Joy,Apollo 100,,"/wiki/Jesu,_Joy_of_Man%27s_Desiring"
 1972,72,Anticipation,Carly Simon,,/wiki/Anticipation_(song)
@@ -1400,7 +1400,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1972,98,Walkin' in the Rain with the One I Love,Love Unlimited,,/wiki/Walkin%27_in_the_Rain_with_the_One_I_Love
 1972,99,Get on the Good Foot,James Brown,,/wiki/Get_on_the_Good_Foot
 1972,100,Pop That Thang,The Isley Brothers,,/wiki/Pop_That_Thang
-1973,1,Tie a Yellow Ribbon Round the Ole Oak Tree,Tony Orlando and Dawn,,/wiki/Tie_a_Yellow_Ribbon_Round_the_Ole_Oak_Tree
+1973,1,Tie a Yellow Ribbon Round the Ole Oak Tree,Tony Orlando,Dawn,/wiki/Tie_a_Yellow_Ribbon_Round_the_Ole_Oak_Tree
 1973,2,"Bad, Bad Leroy Brown",Jim Croce,,"/wiki/Bad,_Bad_Leroy_Brown"
 1973,3,Killing Me Softly with His Song,Roberta Flack,,/wiki/Killing_Me_Softly_with_His_Song
 1973,4,Let's Get It On,Marvin Gaye,,/wiki/Let%27s_Get_It_On_(song)
@@ -1433,13 +1433,13 @@ Year,Place,Title,Artist,Featuring,Title_url
 1973,31,Shambala,Three Dog Night,,/wiki/Shambala_(song)
 1973,32,Love Train,The O'Jays,,/wiki/Love_Train
 1973,33,I'm Gonna Love You Just a Little More Baby,Barry White,,/wiki/I%27m_Gonna_Love_You_Just_a_Little_More_Baby
-1973,34,"Say, Has Anybody Seen My Sweet Gypsy Rose",Tony Orlando and Dawn,,"/wiki/Say,_Has_Anybody_Seen_My_Sweet_Gypsy_Rose"
+1973,34,"Say, Has Anybody Seen My Sweet Gypsy Rose",Tony Orlando,Dawn,"/wiki/Say,_Has_Anybody_Seen_My_Sweet_Gypsy_Rose"
 1973,35,Keep on Truckin',Eddie Kendricks,,/wiki/Keep_on_Truckin%27_(song)
 1973,36,Danny's Song,Anne Murray,,/wiki/Danny%27s_Song
 1973,37,Dancing in the Moonlight,King Harvest,,/wiki/Dancing_in_the_Moonlight
 1973,38,Monster Mash,Bobby 'Boris' Pickett,,/wiki/Monster_Mash
 1973,39,Natural High,Bloodstone,,/wiki/Natural_High_(Bloodstone_song)
-1973,40,Diamond Girl,Seals and Crofts,,/wiki/Diamond_Girl_(Seals_and_Crofts_song)
+1973,40,Diamond Girl,Seals,Crofts,/wiki/Diamond_Girl_(Seals_and_Crofts_song)
 1973,41,Long Train Runnin',The Doobie Brothers,,/wiki/Long_Train_Runnin%27
 1973,42,Give Me Love (Give Me Peace on Earth),George Harrison,,/wiki/Give_Me_Love_(Give_Me_Peace_on_Earth)
 1973,43,If You Want Me to Stay,Sly & the Family Stone,,/wiki/If_You_Want_Me_to_Stay
@@ -1452,7 +1452,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1973,50,Smoke on the Water,Deep Purple,,/wiki/Smoke_on_the_Water
 1973,51,The Cover of the Rolling Stone,Dr. Hook & The Medicine Show,,/wiki/The_Cover_of_the_Rolling_Stone
 1973,52,Behind Closed Doors,Charlie Rich,,/wiki/Behind_Closed_Doors_(Charlie_Rich_song)
-1973,53,Your Mama Don't Dance,Loggins and Messina,,/wiki/Your_Mama_Don%27t_Dance
+1973,53,Your Mama Don't Dance,Loggins,Messina,/wiki/Your_Mama_Don%27t_Dance
 1973,54,Feelin' Stronger Every Day,Chicago,,/wiki/Feelin%27_Stronger_Every_Day
 1973,55,The Cisco Kid,War,,/wiki/The_Cisco_Kid_(song)
 1973,56,Live and Let Die,Paul McCartney & Wings,,/wiki/Live_and_Let_Die_(song)
@@ -1520,8 +1520,8 @@ Year,Place,Title,Artist,Featuring,Title_url
 1974,18,Sunshine on My Shoulders,John Denver,,/wiki/Sunshine_on_My_Shoulders
 1974,19,Sideshow,Blue Magic,,/wiki/Sideshow_(song)
 1974,20,Hooked on a Feeling,Blue Swede,,/wiki/Hooked_on_a_Feeling
-1974,21,Billy Don't Be a Hero,Bo Donaldson and The Heywoods,,/wiki/Billy_Don%27t_Be_a_Hero
-1974,22,Band on the Run,Paul McCartney and Wings,,/wiki/Band_on_the_Run_(song)
+1974,21,Billy Don't Be a Hero,Bo Donaldson,The Heywoods,/wiki/Billy_Don%27t_Be_a_Hero
+1974,22,Band on the Run,Paul McCartney,Wings,/wiki/Band_on_the_Run_(song)
 1974,23,The Most Beautiful Girl,Charlie Rich,,/wiki/The_Most_Beautiful_Girl
 1974,24,Time in a Bottle,Jim Croce,,/wiki/Time_in_a_Bottle
 1974,25,Annie's Song,John Denver,,/wiki/Annie%27s_Song
@@ -1576,7 +1576,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1974,74,Oh My My,Ringo Starr,,/wiki/Oh_My_My_(Ringo_Starr_song)
 1974,75,For the Love of Money,The O'Jays,,/wiki/For_the_Love_of_Money
 1974,76,I Shot the Sheriff,Eric Clapton,,/wiki/I_Shot_the_Sheriff
-1974,77,Jet,Paul McCartney and Wings,,/wiki/Jet_(song)
+1974,77,Jet,Paul McCartney,Wings,/wiki/Jet_(song)
 1974,78,Don't Let the Sun Go Down on Me,Elton John,,/wiki/Don%27t_Let_the_Sun_Go_Down_on_Me
 1974,79,Tubular Bells,Mike Oldfield,,/wiki/Mike_Oldfield%27s_Single
 1974,80,A Love Song,Anne Murray,,/wiki/A_Love_Song_(Loggins_and_Messina_song)
@@ -1590,7 +1590,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1974,88,Don't You Worry 'bout a Thing,Stevie Wonder,,/wiki/Don%27t_You_Worry_%27bout_a_Thing
 1974,89,A Very Special Love Song,Charlie Rich,,/wiki/A_Very_Special_Love_Song
 1974,90,My Girl Bill,Jim Stafford,,/wiki/My_Girl_Bill
-1974,91,Helen Wheels,Paul McCartney and Wings,,/wiki/Helen_Wheels
+1974,91,Helen Wheels,Paul McCartney,Wings,/wiki/Helen_Wheels
 1974,92,My Mistake (Was to Love You),Diana Ross,Marvin Gaye,/wiki/My_Mistake_(Was_to_Love_You)
 1974,93,Wildwood Weed,Jim Stafford,,/wiki/Wildwood_Weed
 1974,94,Beach Baby,The First Class,,/wiki/Beach_Baby
@@ -1618,7 +1618,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1975,16,Black Water,The Doobie Brothers,,/wiki/Black_Water_(song)
 1975,17,The Ballroom Blitz,Sweet,,/wiki/The_Ballroom_Blitz
 1975,18,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,B.J. Thomas,,/wiki/(Hey_Won%27t_You_Play)_Another_Somebody_Done_Somebody_Wrong_Song
-1975,19,He Don't Love You (Like I Love You),Tony Orlando and Dawn,,/wiki/He_Don%27t_Love_You_(Like_I_Love_You)
+1975,19,He Don't Love You (Like I Love You),Tony Orlando,Dawn,/wiki/He_Don%27t_Love_You_(Like_I_Love_You)
 1975,20,At Seventeen,Janis Ian,,/wiki/At_Seventeen
 1975,21,Pick Up the Pieces,Average White Band,,/wiki/Pick_Up_the_Pieces_(Average_White_Band_song)
 1975,22,The Hustle,Van McCoy & the Soul City Symphony,,/wiki/The_Hustle_(song)
@@ -1709,13 +1709,13 @@ Year,Place,Title,Artist,Featuring,Title_url
 1976,7,Love Machine,The Miracles,,/wiki/Love_Machine_(The_Miracles_song)
 1976,8,50 Ways to Leave Your Lover,Paul Simon,,/wiki/50_Ways_to_Leave_Your_Lover
 1976,9,Love Is Alive,Gary Wright,,/wiki/Love_Is_Alive_(Gary_Wright_song)
-1976,10,A Fifth of Beethoven,Walter Murphy,,/wiki/A_Fifth_of_Beethoven
+1976,10,A Fifth of Beethoven,Walter Murphy,The Big Apple Band,/wiki/A_Fifth_of_Beethoven
 1976,11,Sara Smile,Hall & Oates,,/wiki/Sara_Smile
 1976,12,Afternoon Delight,Starland Vocal Band,,/wiki/Afternoon_Delight_(song)
 1976,13,I Write the Songs,Barry Manilow,,/wiki/I_Write_the_Songs
 1976,14,"Fly, Robin, Fly",Silver Convention,,"/wiki/Fly,_Robin,_Fly"
 1976,15,Love Hangover,Diana Ross,,/wiki/Love_Hangover
-1976,16,Get Closer,Seals and Crofts,,/wiki/Get_Closer_(song)
+1976,16,Get Closer,Seals,Crofts,/wiki/Get_Closer_(song)
 1976,17,"More, More, More",Andrea True Connection,,"/wiki/More,_More,_More"
 1976,18,Bohemian Rhapsody,Queen,,/wiki/Bohemian_Rhapsody
 1976,19,Misty Blue,Dorothy Moore,,/wiki/Misty_Blue
@@ -1767,7 +1767,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1976,65,Island Girl,Elton John,,/wiki/Island_Girl
 1976,66,Let's Do It Again,The Staple Singers,,/wiki/Let%27s_Do_It_Again_(song)
 1976,67,Let 'Em In,Wings,,/wiki/Let_%27Em_In
-1976,68,Baby Face,Wing and a Prayer Fife and Drum Corps,,/wiki/Baby_Face_(1926_song)
+1976,68,Baby Face,Wing,a Prayer Fife,/wiki/Baby_Face_(1926_song)
 1976,69,This Masquerade,George Benson,,/wiki/This_Masquerade
 1976,70,Evil Woman,Electric Light Orchestra,,/wiki/Evil_Woman_(Electric_Light_Orchestra_song)
 1976,71,Wham Bam,Silver,,/wiki/Wham_Bam
@@ -1796,7 +1796,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1976,94,Junk Food Junkie,Larry Groce,,/wiki/Junk_Food_Junkie
 1976,95,Tryin' to Get the Feeling Again,Barry Manilow,,/wiki/Tryin%27_to_Get_the_Feeling_Again
 1976,96,Rock and Roll All Nite,Kiss,,/wiki/Rock_and_Roll_All_Nite
-1976,97,Disco Duck,Rick Dees,,/wiki/Disco_Duck
+1976,97,Disco Duck,Rick Dees,His Cast of Idiots,/wiki/Disco_Duck
 1976,98,Take the Money and Run,Steve Miller Band,,/wiki/Take_the_Money_and_Run_(Steve_Miller_Band_song)
 1976,99,Squeeze Box,The Who,,/wiki/Squeeze_Box_(song)
 1976,100,Country Boy (You Got Your Feet in L.A.),Glen Campbell,,/wiki/Country_Boy_(You_Got_Your_Feet_in_L.A.)
@@ -2175,7 +2175,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1980,73,One Fine Day,Carole King,,/wiki/One_Fine_Day_(song)
 1980,74,Dim All the Lights,Donna Summer,,/wiki/Dim_All_the_Lights
 1980,75,You May Be Right,Billy Joel,,/wiki/You_May_Be_Right
-1980,76,Should've Never Let You Go,Neil,,
+1980,76,Should've Never Let You Go,Neil,Dara Sedaka,
 1980,77,Pilot of the Airwaves,Charlie Dore,,/wiki/Pilot_of_the_Airwaves
 1980,78,Hurt So Bad,Linda Ronstadt,,/wiki/Hurt_So_Bad
 1980,79,Off the Wall,Michael Jackson,,/wiki/Off_the_Wall_(Michael_Jackson_song)
@@ -2520,7 +2520,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1984,18,Jump (For My Love),The Pointer Sisters,,/wiki/Jump_(For_My_Love)
 1984,19,Talking in Your Sleep,The Romantics,,/wiki/Talking_in_Your_Sleep_(The_Romantics_song)
 1984,20,Self Control,Laura Branigan,,/wiki/Self_Control_(Raf_song)#Laura_Branigan_version
-1984,21,Let's Go Crazy,the Revolution,,/wiki/Let%27s_Go_Crazy_(song)
+1984,21,Let's Go Crazy,Prince & ,the Revolution,/wiki/Let%27s_Go_Crazy_(song)
 1984,22,Say It Isn't So,Daryl Hall & John Oates,,/wiki/Say_It_Isn%27t_So_(Hall_%26_Oates_song)
 1984,23,Hold Me Now,Thompson Twins,,/wiki/Hold_Me_Now_(Thompson_Twins_song)
 1984,24,Joanna,Kool & the Gang,,/wiki/Joanna_(Kool_%26_the_Gang_song)
@@ -2649,7 +2649,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1985,47,You Give Good Love,Whitney Houston,,/wiki/You_Give_Good_Love
 1985,48,The Search Is Over,Survivor,,/wiki/The_Search_Is_Over
 1985,49,Missing You,Diana Ross,,/wiki/Missing_You_(Diana_Ross_song)
-1985,50,Separate Lives,Marilyn Martin,,/wiki/Separate_Lives
+1985,50,Separate Lives,Phil Collins,Marilyn Martin,/wiki/Separate_Lives
 1985,51,Raspberry Beret,Prince,the Revolution,/wiki/Raspberry_Beret
 1985,52,Suddenly,Billy Ocean,,/wiki/Suddenly_(Billy_Ocean_song)
 1985,53,The Boys of Summer,Don Henley,,/wiki/The_Boys_of_Summer_(song)
@@ -2700,7 +2700,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1985,98,Dress You Up,Madonna,,/wiki/Dress_You_Up
 1985,99,Sentimental Street,Night Ranger,,/wiki/Sentimental_Street
 1985,100,Sugar Walls,Sheena Easton,,/wiki/Sugar_Walls
-1986,1,That's What Friends Are For,Dionne Warwick,Gladys Knight,/wiki/That%27s_What_Friends_Are_For
+1986,1,That's What Friends Are For,Dionne,Friends (,/wiki/That%27s_What_Friends_Are_For
 1986,2,"Say You, Say Me",Lionel Richie,,"/wiki/Say_You,_Say_Me"
 1986,3,I Miss You,Klymaxx,,/wiki/I_Miss_You_(Klymaxx_song)
 1986,4,On My Own,Patti LaBelle,Michael McDonald,/wiki/On_My_Own_(Patti_LaBelle_and_Michael_McDonald_song)
@@ -2760,7 +2760,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1986,58,Nasty,Janet Jackson,,/wiki/Nasty_(song)
 1986,59,Take Me Home Tonight,Eddie Money,,/wiki/Take_Me_Home_Tonight_(song)
 1986,60,We Don't Have to Take Our Clothes Off,Jermaine Stewart,,/wiki/We_Don%27t_Have_to_Take_Our_Clothes_Off
-1986,61,All Cried Out,Lisa Lisa and Cult Jam,,/wiki/All_Cried_Out_(Lisa_Lisa_%26_Cult_Jam_song)
+1986,61,All Cried Out,Lisa Lisa,Cult Jam,/wiki/All_Cried_Out_(Lisa_Lisa_%26_Cult_Jam_song)
 1986,62,Your Love,The Outfield,,/wiki/Your_Love_(The_Outfield_song)
 1986,63,I'm Your Man,Wham!,,/wiki/I%27m_Your_Man_(Wham!_song)
 1986,64,Perfect Way,Scritti Politti,,/wiki/Perfect_Way_(Scritti_Politti_song)
@@ -2816,7 +2816,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1987,14,Always,Atlantic Starr,,/wiki/Always_(Atlantic_Starr_song)
 1987,15,With or Without You,U2,,/wiki/With_or_Without_You
 1987,16,Looking for a New Love,Jody Watley,,/wiki/Looking_for_a_New_Love
-1987,17,Head to Toe,Lisa Lisa and Cult Jam,,/wiki/Head_to_Toe
+1987,17,Head to Toe,Lisa Lisa,Cult Jam,/wiki/Head_to_Toe
 1987,18,I Think We're Alone Now,Tiffany,,/wiki/I_Think_We%27re_Alone_Now#Tiffany_version
 1987,19,Mony Mony,Billy Idol,,/wiki/Mony_Mony#Billy_Idol_version
 1987,20,At This Moment,Billy Vera and the Beaters,,/wiki/At_This_Moment
@@ -2830,7 +2830,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1987,28,The Next Time I Fall,Peter Cetera,Amy Grant,/wiki/The_Next_Time_I_Fall
 1987,29,Lean on Me,Club Nouveau,,/wiki/Lean_on_Me_(song)#Club_Nouveau_version
 1987,30,Open Your Heart,Madonna,,/wiki/Open_Your_Heart_(Madonna_song)
-1987,31,Lost in Emotion,Lisa Lisa and Cult Jam,,/wiki/Lost_in_Emotion
+1987,31,Lost in Emotion,Lisa Lisa,Cult Jam,/wiki/Lost_in_Emotion
 1987,32,(I Just) Died In Your Arms,Cutting Crew,,/wiki/(I_Just)_Died_In_Your_Arms
 1987,33,Heart and Soul,T'Pau,,/wiki/Heart_and_Soul_(T%27Pau_song)
 1987,34,You Keep Me Hangin' On,Kim Wilde,,/wiki/You_Keep_Me_Hangin%27_On
@@ -2871,7 +2871,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1987,69,Someday,Glass Tiger,,/wiki/Someday_(Glass_Tiger_song)
 1987,70,When Smokey Sings,ABC,,/wiki/When_Smokey_Sings
 1987,71,Casanova,LeVert,,/wiki/Casanova_(LeVert_song)
-1987,72,Rhythm Is Gonna Get You,Gloria Estefan and Miami Sound Machine,,/wiki/Rhythm_Is_Gonna_Get_You
+1987,72,Rhythm Is Gonna Get You,Gloria Estefan,Miami Sound Machine,/wiki/Rhythm_Is_Gonna_Get_You
 1987,73,Rock Steady,The Whispers,,/wiki/Rock_Steady_(The_Whispers_song)
 1987,74,Wanted Dead or Alive,Bon Jovi,,/wiki/Wanted_Dead_or_Alive_(Bon_Jovi_song)
 1987,75,Big Time,Peter Gabriel,,/wiki/Big_Time_(Peter_Gabriel_song)
@@ -2912,7 +2912,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1988,10,Roll with It,Steve Winwood,,/wiki/Roll_with_It_(Steve_Winwood_song)
 1988,11,One More Try,George Michael,,/wiki/One_More_Try_(George_Michael_song)
 1988,12,Wishing Well,Terence Trent D'Arby,,/wiki/Wishing_Well_(Terence_Trent_D%27Arby_song)
-1988,13,Anything for You,Gloria Estefan and Miami Sound Machine,,/wiki/Anything_for_You_(Gloria_Estefan_song)
+1988,13,Anything for You,Gloria Estefan,Miami Sound Machine,/wiki/Anything_for_You_(Gloria_Estefan_song)
 1988,14,The Flame,Cheap Trick,,/wiki/The_Flame_(Cheap_Trick_song)
 1988,15,"Get Outta My Dreams, Get into My Car",Billy Ocean,,"/wiki/Get_Outta_My_Dreams,_Get_into_My_Car"
 1988,16,Seasons Change,Exposé,,/wiki/Seasons_Change_(song)
@@ -2939,7 +2939,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1988,37,"Don't Worry, Be Happy",Bobby McFerrin,,"/wiki/Don%27t_Worry,_Be_Happy"
 1988,38,Make Me Lose Control,Eric Carmen,,/wiki/Make_Me_Lose_Control_(song)
 1988,39,Red Red Wine,UB40,,/wiki/Red_Red_Wine
-1988,40,She's Like the Wind,Patrick Swayze,,/wiki/She%27s_Like_the_Wind
+1988,40,She's Like the Wind,Patrick Swayze,Wendy Fraser,/wiki/She%27s_Like_the_Wind
 1988,41,Bad Medicine,Bon Jovi,,/wiki/Bad_Medicine_(song)
 1988,42,Kokomo,The Beach Boys,,/wiki/Kokomo_(song)
 1988,43,I Don't Wanna Go on with You Like That,Elton John,,/wiki/I_Don%27t_Wanna_Go_on_with_You_Like_That
@@ -2961,7 +2961,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1988,59,I Want to Be Your Man,Roger,,/wiki/I_Want_to_Be_Your_Man
 1988,60,Girlfriend,Pebbles,,/wiki/Girlfriend_(Pebbles_song)
 1988,61,Dirty Diana,Michael Jackson,,/wiki/Dirty_Diana
-1988,62,1-2-3,Gloria Estefan and Miami Sound Machine,,/wiki/1-2-3_(Gloria_Estefan_and_Miami_Sound_Machine_song)
+1988,62,1-2-3,Gloria Estefan,Miami Sound Machine,/wiki/1-2-3_(Gloria_Estefan_and_Miami_Sound_Machine_song)
 1988,63,Mercedes Boy,Pebbles,,/wiki/Mercedes_Boy
 1988,64,Perfect World,Huey Lewis and the News,,/wiki/Perfect_World_(Huey_Lewis_and_the_News_song)
 1988,65,New Sensation,INXS,,/wiki/New_Sensation
@@ -2989,7 +2989,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1988,87,Nite and Day,Al B. Sure!,,/wiki/Nite_and_Day
 1988,88,Don't You Know What the Night Can Do?,Steve Winwood,,/wiki/Don%27t_You_Know_What_the_Night_Can_Do%3F
 1988,89,One Moment in Time,Whitney Houston,,/wiki/One_Moment_in_Time
-1988,90,Can't Stay Away from You,Gloria Estefan and Miami Sound Machine,,/wiki/Can%27t_Stay_Away_from_You
+1988,90,Can't Stay Away from You,Gloria Estefan,Miami Sound Machine,/wiki/Can%27t_Stay_Away_from_You
 1988,91,Kissing a Fool,George Michael,,/wiki/Kissing_a_Fool_(song)
 1988,92,Cherry Bomb,John Cougar Mellencamp,,/wiki/Cherry_Bomb_(John_Mellencamp_song)
 1988,93,I Still Believe,Brenda K. Starr,,/wiki/I_Still_Believe_(Brenda_K._Starr_song)
@@ -3050,7 +3050,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1989,48,Every Little Step,Bobby Brown,,/wiki/Every_Little_Step
 1989,49,Hangin' Tough,New Kids on the Block,,/wiki/Hangin%27_Tough_(song)
 1989,50,My Heart Can't Tell You No,Rod Stewart,,/wiki/My_Heart_Can%27t_Tell_You_No
-1989,51,So Alive,Love and Rockets,,/wiki/So_Alive_(Love_and_Rockets_song)
+1989,51,So Alive,Love,Rockets,/wiki/So_Alive_(Love_and_Rockets_song)
 1989,52,You Got It (The Right Stuff),New Kids on the Block,,/wiki/You_Got_It_(The_Right_Stuff)
 1989,53,Armageddon It,Def Leppard,,/wiki/Armageddon_It
 1989,54,Satisfied,Richard Marx,,/wiki/Satisfied_(Richard_Marx_song)
@@ -3505,7 +3505,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1994,3,I'll Make Love to You,Boyz II Men,,/wiki/I%27ll_Make_Love_to_You
 1994,4,The Power of Love,Celine Dion,,/wiki/The_Power_of_Love_(Jennifer_Rush_song)#Celine_Dion_version
 1994,5,Hero,Mariah Carey,,/wiki/Hero_(Mariah_Carey_song)
-1994,6,Stay (I Missed You),Lisa Loeb and Nine Stories,,/wiki/Stay_(I_Missed_You)
+1994,6,Stay (I Missed You),Lisa Loeb,Nine Stories,/wiki/Stay_(I_Missed_You)
 1994,7,Breathe Again,Toni Braxton,,/wiki/Breathe_Again
 1994,8,All for Love,Bryan Adams,Rod Stewart,/wiki/All_for_Love_(song)
 1994,9,All That She Wants,Ace of Base,,/wiki/All_That_She_Wants
@@ -3555,7 +3555,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1994,53,Never Lie,Immature,,/wiki/Never_Lie
 1994,54,Streets of Philadelphia,Bruce Springsteen,,/wiki/Streets_of_Philadelphia
 1994,55,Getto Jam,Domino,,/wiki/Getto_Jam
-1994,56,Endless Love,Luther Vandross,,/wiki/Endless_Love_(song)#Luther_Vandross_and_Mariah_Carey_version
+1994,56,Endless Love,Luther Vandross,Mariah Carey,/wiki/Endless_Love_(song)#Luther_Vandross_and_Mariah_Carey_version
 1994,57,I Miss You,Aaron Hall,,/wiki/I_Miss_You_(Aaron_Hall_song)
 1994,58,Understanding,Xscape,,/wiki/Understanding_(song)
 1994,59,This D.J.,Warren G,,/wiki/This_D.J.
@@ -3655,7 +3655,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1995,53,Keep Their Heads Ringin',Dr. Dre,,/wiki/Keep_Their_Heads_Ringin%27
 1995,54,The Rhythm of the Night,Corona,,/wiki/The_Rhythm_of_the_Night_(song)
 1995,55,Roll to Me,Del Amitri,,/wiki/Roll_to_Me
-1995,56,"Scream"" / ""Childhood",Michael Jackson and Janet Jackson,,/wiki/Scream_(Michael_Jackson_and_Janet_Jackson_song)
+1995,56,"Scream"" / ""Childhood",Michael Jackson,Janet Jackson,/wiki/Scream_(Michael_Jackson_and_Janet_Jackson_song)
 1995,57,Freek'n You,Jodeci,,/wiki/Freek%27n_You
 1995,58,I Wish,Skee-Lo,,/wiki/I_Wish_(Skee-Lo_song)
 1995,59,Believe,Elton John,,/wiki/Believe_(Elton_John_song)
@@ -3665,13 +3665,13 @@ Year,Place,Title,Artist,Featuring,Title_url
 1995,63,Tootsee Roll,69 Boyz,,/wiki/Tootsee_Roll
 1995,64,"You Want This"" / ""70's Love Groove",Janet Jackson,,/wiki/You_Want_This
 1995,65,Tell Me,Groove Theory,,/wiki/Tell_Me_(Groove_Theory_song)
-1995,66,Can't You See,Total,,/wiki/Can%27t_You_See_(Total_song)
+1995,66,Can't You See,Total,The Notorious B.I.G.,/wiki/Can%27t_You_See_(Total_song)
 1995,67,All I Wanna Do,Sheryl Crow,,/wiki/All_I_Wanna_Do_(Sheryl_Crow_song)
 1995,68,This Lil' Game We Play,Subway,702,/wiki/This_Lil%27_Game_We_Play
 1995,69,Come and Get Your Love,Real McCoy,,/wiki/Come_and_Get_Your_Love#Real_McCoy_version
 1995,70,This Ain't a Love Song,Bon Jovi,,/wiki/This_Ain%27t_a_Love_Song
 1995,71,Secret,Madonna,,/wiki/Secret_(Madonna_song)
-1995,72,Player's Anthem,Junior M.A.F.I.A.,,/wiki/Player%27s_Anthem
+1995,72,Player's Anthem,Junior M.A.F.I.A.,The Notorious B.I.G.,/wiki/Player%27s_Anthem
 1995,73,Feel Me Flow,Naughty by Nature,,/wiki/Feel_Me_Flow
 1995,74,Every Day of the Week,Jade,,/wiki/Every_Day_of_the_Week
 1995,75,The Sweetest Days,Vanessa Williams,,/wiki/The_Sweetest_Days_(Vanessa_Williams_song)
@@ -3716,7 +3716,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1996,14,Exhale (Shoop Shoop),Whitney Houston,,/wiki/Exhale_(Shoop_Shoop)
 1996,15,"Follow You Down"" / ""Til I Hear It from You",Gin Blossoms,,/wiki/Follow_You_Down
 1996,16,Sittin' Up in My Room,Brandy,,/wiki/Sittin%27_Up_in_My_Room
-1996,17,"How Do U Want It"" / ""California Love",2Pac,K-Ci and JoJo,/wiki/How_Do_U_Want_It
+1996,17,"How Do U Want It"" / ""California Love",2Pac,K-Ci,/wiki/How_Do_U_Want_It
 1996,18,It's All Coming Back to Me Now,Celine Dion,,/wiki/It%27s_All_Coming_Back_to_Me_Now
 1996,19,Change the World,Eric Clapton,,/wiki/Change_the_World
 1996,20,Hey Lover,LL Cool J,,/wiki/Hey_Lover
@@ -3790,7 +3790,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1996,88,My Boo,Ghost Town DJ's,,/wiki/My_Boo_(Ghost_Town_DJs_song)
 1996,89,Get Money,Junior M.A.F.I.A.,The Notorious B.I.G.,/wiki/Get_Money_(Junior_M.A.F.I.A._song)
 1996,90,That Girl,Maxi Priest,Shaggy,/wiki/That_Girl_(Maxi_Priest_song)
-1996,91,Po Pimp,Do or Die,Twista,/wiki/Po_Pimp
+1996,91,Po Pimp,Do,Die,/wiki/Po_Pimp
 1996,92,Until It Sleeps,Metallica,,/wiki/Until_It_Sleeps
 1996,93,Hay,Crucial Conflict,,/wiki/Hay_(song)
 1996,94,Beautiful Life,Ace of Base,,/wiki/Beautiful_Life_(Ace_of_Base_song)
@@ -3857,7 +3857,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1997,55,If It Makes You Happy,Sheryl Crow,,/wiki/If_It_Makes_You_Happy
 1997,56,Never Make a Promise,Dru Hill,,/wiki/Never_Make_a_Promise
 1997,57,When You Love a Woman,Journey,,/wiki/When_You_Love_a_Woman
-1997,58,Up Jumps da Boogie,Magoo and Timbaland,,/wiki/Up_Jumps_da_Boogie
+1997,58,Up Jumps da Boogie,Magoo,Timbaland,/wiki/Up_Jumps_da_Boogie
 1997,59,"I Don't Want To"" / ""I Love Me Some Him",Toni Braxton,,/wiki/I_Don%27t_Want_To
 1997,60,Everyday Is a Winding Road,Sheryl Crow,,/wiki/Everyday_Is_a_Winding_Road
 1997,61,Cold Rock a Party,MC Lyte,,/wiki/Cold_Rock_a_Party
@@ -3865,7 +3865,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1997,63,Building a Mystery,Sarah McLachlan,,/wiki/Building_a_Mystery
 1997,64,I Love You Always Forever,Donna Lewis,,/wiki/I_Love_You_Always_Forever
 1997,65,Your Woman,White Town,,/wiki/Your_Woman
-1997,66,C U When U Get There,Coolio,,/wiki/C_U_When_U_Get_There
+1997,66,C U When U Get There,Coolio,40 Thevz,/wiki/C_U_When_U_Get_There
 1997,67,Change the World,Eric Clapton,,/wiki/Change_the_World
 1997,68,My Baby Daddy,B-Rock and the Bizz,,/wiki/My_Baby_Daddy
 1997,69,Tubthumping,Chumbawamba,,/wiki/Tubthumping
@@ -3935,7 +3935,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1998,33,Gone till November,Wyclef Jean,,/wiki/Gone_till_November
 1998,34,My Body,LSG,,/wiki/My_Body_(LSG_song)
 1998,35,Tubthumping,Chumbawamba,,/wiki/Tubthumping
-1998,36,Deja Vu (Uptown Baby),Lord Tariq and Peter Gunz,,/wiki/Deja_Vu_(Uptown_Baby)
+1998,36,Deja Vu (Uptown Baby),Lord Tariq,Peter Gunz,/wiki/Deja_Vu_(Uptown_Baby)
 1998,37,I Want You Back,'N Sync,,/wiki/I_Want_You_Back_(%27N_Sync_song)
 1998,38,When the Lights Go Out,Five,,/wiki/When_the_Lights_Go_Out
 1998,39,They Don't Know,Jon B.,,/wiki/They_Don%27t_Know_(Jon_B_song)
@@ -3947,7 +3947,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1998,45,Say It,Voices of Theory,,/wiki/Say_It_(Voices_of_Theory_song)
 1998,46,Kiss the Rain,Billie Myers,,/wiki/Kiss_the_Rain
 1998,47,Come with Me,Puff Daddy,Jimmy Page,/wiki/Come_with_Me_(Puff_Daddy_song)
-1998,48,Romeo and Juliet,Sylk-E. Fyne,,/wiki/Romeo_and_Juliet_(Sylk-E._Fyne_song)
+1998,48,Romeo and Juliet,Sylk-E. Fyne,Chill,/wiki/Romeo_and_Juliet_(Sylk-E._Fyne_song)
 1998,49,It's All About Me,Mýa,Sisqo,/wiki/It%27s_All_About_Me
 1998,50,I Will Come to You,Hanson,,/wiki/I_Will_Come_to_You
 1998,51,One Week,Barenaked Ladies,,/wiki/One_Week_(song)
@@ -3988,7 +3988,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 1998,86,The One I Gave My Heart To,Aaliyah,,/wiki/The_One_I_Gave_My_Heart_To
 1998,87,"Foolish Games"" / ""You Were Meant for Me",Jewel,,/wiki/Foolish_Games
 1998,88,Love You Down,INOJ,,/wiki/Love_You_Down
-1998,89,Do for Love,2Pac,,/wiki/Do_for_Love
+1998,89,Do for Love,2Pac,Eric Williams,/wiki/Do_for_Love
 1998,90,Raise the Roof,Luke,No Good But So Good,/wiki/Raise_the_Roof_(Luke_song)
 1998,91,Heaven,Nu Flavor,,
 1998,92,The Party Continues,JD,Da Brat,/wiki/The_Party_Continues
@@ -4253,7 +4253,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2001,51,This I Promise You,'N Sync,,/wiki/This_I_Promise_You
 2001,52,Izzo (H.O.V.A.),Jay-Z,,/wiki/Izzo_(H.O.V.A.)
 2001,53,Superwoman Pt. II,Lil' Mo,Fabolous,/wiki/Superwoman_Pt._II
-2001,54,Crazy for This Girl,Evan and Jaron,,/wiki/Crazy_for_This_Girl
+2001,54,Crazy for This Girl,Evan,Jaron,/wiki/Crazy_for_This_Girl
 2001,55,Nobody Wants to Be Lonely,Ricky Martin,Christina Aguilera,/wiki/Nobody_Wants_to_Be_Lonely
 2001,56,I Just Wanna Love U (Give It 2 Me),Jay-Z,,/wiki/I_Just_Wanna_Love_U_(Give_It_2_Me)
 2001,57,One Minute Man,Missy Elliott,Ludacris,/wiki/One_Minute_Man
@@ -4519,9 +4519,9 @@ Year,Place,Title,Artist,Featuring,Title_url
 2004,17,Someday,Nickelback,,/wiki/Someday_(Nickelback_song)
 2004,18,Naughty Girl,Beyoncé,,/wiki/Naughty_Girl_(Beyonc%C3%A9_Knowles_song)
 2004,19,My Immortal,Evanescence,,/wiki/My_Immortal
-2004,20,Sunshine,Lil' Flip,,/wiki/Sunshine_(Lil%27_Flip_song)
+2004,20,Sunshine,Lil' Flip,Lea,/wiki/Sunshine_(Lil%27_Flip_song)
 2004,21,Dirt Off Your Shoulder,Jay-Z,,/wiki/Dirt_Off_Your_Shoulder
-2004,22,Move Ya Body,Nina Sky,,/wiki/Move_Ya_Body
+2004,22,Move Ya Body,Nina Sky,Jabba,/wiki/Move_Ya_Body
 2004,23,Dip It Low,Christina Milian,,/wiki/Dip_It_Low
 2004,24,My Boo,Usher,Alicia Keys,/wiki/My_Boo_(Usher_and_Alicia_Keys_song)
 2004,25,One Call Away,Chingy,J-Weav,/wiki/One_Call_Away_(Chingy_song)
@@ -4648,7 +4648,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2005,46,Wake Me Up When September Ends,Green Day,,/wiki/Wake_Me_Up_When_September_Ends
 2005,47,Slow Down,Bobby Valentino,,/wiki/Slow_Down_(Bobby_Valentino_song)
 2005,48,Over and Over,Nelly,Tim McGraw,/wiki/Over_and_Over_(Nelly_song)
-2005,49,Some Cut,Trillville,,/wiki/Some_Cut
+2005,49,Some Cut,Trillville,Cutty,/wiki/Some_Cut
 2005,50,Get It Poppin',Fat Joe,Nelly,/wiki/Get_It_Poppin%27_(Fat_Joe_song)
 2005,51,Play,David Banner,,/wiki/Play_(David_Banner_song)
 2005,52,Soul Survivor,Young Jeezy,Akon,/wiki/Soul_Survivor_(Young_Jeezy_song)
@@ -4972,7 +4972,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2008,70,Lolli Lolli (Pop That Body),Three 6 Mafia,,/wiki/Lolli_Lolli_(Pop_That_Body)
 2008,71,Cyclone,Baby Bash,T-Pain,/wiki/Cyclone_(song)
 2008,72,Love Like This,Natasha Bedingfield,Sean Kingston,/wiki/Love_Like_This_(Natasha_Bedingfield_song)
-2008,73,Burnin' Up,Jonas Brothers,,/wiki/Burnin%27_Up_(Jonas_Brothers_song)
+2008,73,Burnin' Up,Jonas Brothers,Big Rob,/wiki/Burnin%27_Up_(Jonas_Brothers_song)
 2008,74,Love Lockdown,Kanye West,,/wiki/Love_Lockdown
 2008,75,I Luv Your Girl,The-Dream,,/wiki/I_Luv_Your_Girl
 2008,76,Crush,David Archuleta,,/wiki/Crush_(David_Archuleta_song)
@@ -5464,7 +5464,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2013,62,Demons,Imagine Dragons,,/wiki/Demons_(Imagine_Dragons_song)
 2013,63,Counting Stars,OneRepublic,,/wiki/Counting_Stars_(song)
 2013,64,I Cry,Flo Rida,,/wiki/I_Cry_(Flo_Rida_song)
-2013,65,Little Talks,Of Monsters and Men,,/wiki/Little_Talks
+2013,65,Little Talks,Of Monsters,Men,/wiki/Little_Talks
 2013,66,The Other Side,Jason Derulo,,/wiki/The_Other_Side_(Jason_Derulo_song)
 2013,67,Berzerk,Eminem,,/wiki/Berzerk_(song)
 2013,68,Catch My Breath,Kelly Clarkson,,/wiki/Catch_My_Breath
@@ -5620,7 +5620,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2015,18,Shake It Off,Taylor Swift,,/wiki/Shake_It_Off_(Taylor_Swift_song)
 2015,19,Where Are Ü Now,Skrillex,Diplo,/wiki/Where_Are_%C3%9C_Now
 2015,20,Fight Song,Rachel Platten,,/wiki/Fight_Song_(Rachel_Platten_song)
-2015,21,679,Fetty Wap,,/wiki/679_(song)
+2015,21,679,Fetty Wap,Remy Boyz,/wiki/679_(song)
 2015,22,Lips Are Movin,Meghan Trainor,,/wiki/Lips_Are_Movin
 2015,23,Worth It,Fifth Harmony,Kid Ink,/wiki/Worth_It_(Fifth_Harmony_song)
 2015,24,Post to Be,Omarion,Chris Brown,/wiki/Post_to_Be
@@ -5643,7 +5643,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2015,41,Somebody,Natalie La Rose,Jeremih,/wiki/Somebody_(Natalie_La_Rose_song)
 2015,42,FourFiveSeconds,Rihanna,Kanye West,/wiki/FourFiveSeconds
 2015,43,Centuries,Fall Out Boy,,/wiki/Centuries_(song)
-2015,44,My Way,Fetty Wap,,/wiki/My_Way_(Fetty_Wap_song)
+2015,44,My Way,Fetty Wap,Monty,/wiki/My_Way_(Fetty_Wap_song)
 2015,45,Take Your Time,Sam Hunt,,/wiki/Take_Your_Time_(Sam_Hunt_song)
 2015,46,Animals,Maroon 5,,/wiki/Animals_(Maroon_5_song)
 2015,47,I Don't Fuck with You,Big Sean,E-40,/wiki/I_Don%27t_Fuck_with_You
@@ -5980,7 +5980,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2018,78,Call Out My Name,The Weeknd,,/wiki/Call_Out_My_Name
 2018,79,King's Dead,Jay Rock,Kendrick Lamar,/wiki/King%27s_Dead
 2018,80,Happier,Marshmello,Bastille,/wiki/Happier_(Marshmello_and_Bastille_song)
-2018,81,Te Boté,Darell,Bad Bunny,/wiki/Te_Bot%C3%A9
+2018,81,Te Boté,"Nio García, ",Darell,/wiki/Te_Bot%C3%A9
 2018,82,Simple,Florida Georgia Line,,/wiki/Simple_(Florida_Georgia_Line_song)
 2018,83,Lemon,N.E.R.D,Rihanna,/wiki/Lemon_(N.E.R.D_and_Rihanna_song)
 2018,84,1-800-273-8255,Logic,Alessia Cara,/wiki/1-800-273-8255_(song)
@@ -6104,7 +6104,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2020,2,Circles,Post Malone,,/wiki/Circles_(Post_Malone_song)
 2020,3,The Box,Roddy Ricch,,/wiki/The_Box_(Roddy_Ricch_song)
 2020,4,Don't Start Now,Dua Lipa,,/wiki/Don%27t_Start_Now
-2020,5,Rockstar,DaBaby,,/wiki/Rockstar_(DaBaby_song)
+2020,5,Rockstar,DaBaby,Roddy Ricch,/wiki/Rockstar_(DaBaby_song)
 2020,6,Adore You,Harry Styles,,/wiki/Adore_You_(Harry_Styles_song)
 2020,7,Life Is Good,Future,Drake,/wiki/Life_Is_Good_(song)
 2020,8,Memories,Maroon 5,,/wiki/Memories_(Maroon_5_song)
@@ -6112,8 +6112,8 @@ Year,Place,Title,Artist,Featuring,Title_url
 2020,10,Someone You Loved,Lewis Capaldi,,/wiki/Someone_You_Loved
 2020,11,Say So,Doja Cat,,/wiki/Say_So
 2020,12,I Hope,Gabby Barrett,Charlie Puth,/wiki/I_Hope_(Gabby_Barrett_song)
-2020,13,Whats Poppin,Jack Harlow,Tory Lanez,/wiki/Whats_Poppin
-2020,14,Dance Monkey,Tones and I,,/wiki/Dance_Monkey
+2020,13,Whats Poppin,Jack Harlow,"DaBaby, ",/wiki/Whats_Poppin
+2020,14,Dance Monkey,Tones,I,/wiki/Dance_Monkey
 2020,15,Savage,Megan Thee Stallion,Beyoncé,/wiki/Savage_(Megan_Thee_Stallion_song)
 2020,16,Roxanne,Arizona Zervas,,/wiki/Roxanne_(Arizona_Zervas_song)
 2020,17,Intentions,Justin Bieber,Quavo,/wiki/Intentions_(Justin_Bieber_song)
@@ -6122,9 +6122,9 @@ Year,Place,Title,Artist,Featuring,Title_url
 2020,20,Watermelon Sugar,Harry Styles,,/wiki/Watermelon_Sugar
 2020,21,Before You Go,Lewis Capaldi,,/wiki/Before_You_Go_(Lewis_Capaldi_song)
 2020,22,Falling,Trevor Daniel,,/wiki/Falling_(Trevor_Daniel_song)
-2020,23,"10,000 Hours",Dan + Shay,,"/wiki/10,000_Hours"
-2020,24,WAP,Cardi B,,/wiki/WAP_(song)
-2020,25,Ballin',Mustard,,/wiki/Ballin%27_(Mustard_song)
+2020,23,"10,000 Hours",Dan + Shay,Justin Bieber,"/wiki/10,000_Hours"
+2020,24,WAP,Cardi B,Megan Thee Stallion,/wiki/WAP_(song)
+2020,25,Ballin',Mustard,Roddy Ricch,/wiki/Ballin%27_(Mustard_song)
 2020,26,Hot Girl Bummer,Blackbear,,/wiki/Hot_Girl_Bummer
 2020,27,Blueberry Faygo,Lil Mosey,,/wiki/Blueberry_Faygo
 2020,28,Heartless,The Weeknd,,/wiki/Heartless_(The_Weeknd_song)
@@ -6135,12 +6135,12 @@ Year,Place,Title,Artist,Featuring,Title_url
 2020,33,Break My Heart,Dua Lipa,,/wiki/Break_My_Heart_(Dua_Lipa_song)
 2020,34,Chasin' You,Morgan Wallen,,/wiki/Chasin%27_You
 2020,35,Savage Love (Laxed – Siren Beat),Jawsh 685,Jason Derulo,/wiki/Savage_Love_(Laxed_%E2%80%93_Siren_Beat)
-2020,36,No Guidance,Chris Brown,,/wiki/No_Guidance
-2020,37,My Oh My,Camila Cabello,,/wiki/My_Oh_My_(Camila_Cabello_song)
+2020,36,No Guidance,Chris Brown,Drake,/wiki/No_Guidance
+2020,37,My Oh My,Camila Cabello,DaBaby,/wiki/My_Oh_My_(Camila_Cabello_song)
 2020,38,Dynamite,BTS,,/wiki/Dynamite_(BTS_song)
-2020,39,Go Crazy,Young Thug,,/wiki/Go_Crazy_(Chris_Brown_and_Young_Thug_song)
-2020,40,High Fashion,Roddy Ricch ,Mustard,/wiki/High_Fashion_(song)
-2020,41,Laugh Now Cry Later,Lil Durk,,/wiki/Laugh_Now_Cry_Later
+2020,39,Go Crazy,Chris Brown,Young Thug,/wiki/Go_Crazy_(Chris_Brown_and_Young_Thug_song)
+2020,40,High Fashion,Roddy Ricch,Mustard,/wiki/High_Fashion_(song)
+2020,41,Laugh Now Cry Later,Drake,Lil Durk,/wiki/Laugh_Now_Cry_Later
 2020,42,Woah,Lil Baby,,/wiki/Woah_(Lil_Baby_song)
 2020,43,Death Bed,Powfu,Beabadoobee,/wiki/Death_Bed_(Coffee_for_Your_Head)
 2020,44,Señorita,Shawn Mendes,Camila Cabello,/wiki/Se%C3%B1orita_(Shawn_Mendes_and_Camila_Cabello_song)
@@ -6148,7 +6148,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2020,46,Bad Guy,Billie Eilish,,/wiki/Bad_Guy_(Billie_Eilish_song)
 2020,47,Mood,24kGoldn,Iann Dior,/wiki/Mood_(song)
 2020,48,Rain on Me,Lady Gaga,Ariana Grande,/wiki/Rain_on_Me_(Lady_Gaga_and_Ariana_Grande_song)
-2020,49,For the Night,Pop Smoke,,/wiki/For_the_Night
+2020,49,For the Night,Pop Smoke,Lil Baby and DaBaby,/wiki/For_the_Night
 2020,50,Ritmo (Bad Boys for Life),Black Eyed Peas,J Balvin,/wiki/Ritmo_(Bad_Boys_for_Life)
 2020,51,Heart on Ice,Rod Wave,,/wiki/Heart_on_Ice
 2020,52,Nobody but You,Blake Shelton,Gwen Stefani,/wiki/Nobody_but_You_(Blake_Shelton_and_Gwen_Stefani_song)
@@ -6156,16 +6156,16 @@ Year,Place,Title,Artist,Featuring,Title_url
 2020,54,Come & Go,Juice Wrld,Marshmello,/wiki/Come_%26_Go_(Juice_Wrld_and_Marshmello_song)
 2020,55,Truth Hurts,Lizzo,,/wiki/Truth_Hurts_(song)
 2020,56,If the World Was Ending,JP Saxe,Julia Michaels,/wiki/If_the_World_Was_Ending
-2020,57,We Paid,42 Dugg,,/wiki/We_Paid
+2020,57,We Paid,Lil Baby,42 Dugg,/wiki/We_Paid
 2020,58,Yummy,Justin Bieber,,/wiki/Yummy_(Justin_Bieber_song)
 2020,59,One Man Band,Old Dominion,,/wiki/One_Man_Band_(Old_Dominion_song)
 2020,60,Got What I Got,Jason Aldean,,/wiki/Got_What_I_Got
 2020,61,Sunday Best,Surfaces,,/wiki/Sunday_Best_(Surfaces_song)
-2020,62,Godzilla,Eminem,,/wiki/Godzilla_(Eminem_song)
-2020,63,Bandit,YoungBoy Never Broke Again,,/wiki/Bandit_(song)
+2020,62,Godzilla,Eminem,Juice Wrld,/wiki/Godzilla_(Eminem_song)
+2020,63,Bandit,Juice Wrld,YoungBoy Never Broke Again,/wiki/Bandit_(song)
 2020,64,Party Girl,StaySolidRocky,,/wiki/Party_Girl_(StaySolidRocky_song)
 2020,65,Die from a Broken Heart,Maddie & Tae,,/wiki/Die_from_a_Broken_Heart
-2020,66,Popstar,DJ Khaled,,/wiki/Popstar_(DJ_Khaled_song)
+2020,66,Popstar,DJ Khaled,Drake,/wiki/Popstar_(DJ_Khaled_song)
 2020,67,All I Want for Christmas Is You,Mariah Carey,,/wiki/All_I_Want_for_Christmas_Is_You
 2020,68,One of Them Girls,Lee Brice,,/wiki/One_of_Them_Girls
 2020,69,Hard to Forget,Sam Hunt,,/wiki/Hard_to_Forget
@@ -6174,32 +6174,32 @@ Year,Place,Title,Artist,Featuring,Title_url
 2020,72,Hot,Young Thug,Gunna,/wiki/Hot_(Young_Thug_song)
 2020,73,I Hope You're Happy Now,Carly Pearce,Lee Brice,/wiki/I_Hope_You%27re_Happy_Now_(Carly_Pearce_and_Lee_Brice_song)
 2020,74,Emotionally Scarred,Lil Baby,,/wiki/Emotionally_Scarred
-2020,75,Suicidal,YNW Melly,,/wiki/Suicidal_(song)
+2020,75,Suicidal,YNW Melly,Juice Wrld,/wiki/Suicidal_(song)
 2020,76,The Bigger Picture,Lil Baby,,/wiki/The_Bigger_Picture_(song)
 2020,77,Only Human,Jonas Brothers,,/wiki/Only_Human_(Jonas_Brothers_song)
-2020,78,The Woo,50 Cent,,/wiki/The_Woo
+2020,78,The Woo,Pop Smoke,50 Cent,/wiki/The_Woo
 2020,79,Sum 2 Prove,Lil Baby,,/wiki/Sum_2_Prove
-2020,80,Stuck with U,Ariana Grande and Justin Bieber,,/wiki/Stuck_with_U
-2020,81,Mood Swings,Lil Tjay,,/wiki/Mood_Swings_(Pop_Smoke_song)
+2020,80,Stuck with U,Ariana Grande,Justin Bieber,/wiki/Stuck_with_U
+2020,81,Mood Swings,Pop Smoke,Lil Tjay,/wiki/Mood_Swings_(Pop_Smoke_song)
 2020,82,You Should Be Sad,Halsey,,/wiki/You_Should_Be_Sad
 2020,83,Dior,Pop Smoke,,/wiki/Dior_(song)
 2020,84,Supalonely,Benee,Gus Dapperton,/wiki/Supalonely
 2020,85,Even Though I'm Leaving,Luke Combs,,/wiki/Even_Though_I%27m_Leaving
-2020,86,The Scotts,Kid Cudi,,/wiki/The_Scotts
-2020,87,Juicy,Tyga,,/wiki/Juicy_(Doja_Cat_song)
+2020,86,The Scotts,The Scotts (Travis Scott,Kid Cudi,/wiki/The_Scotts
+2020,87,Juicy,Doja Cat,Tyga,/wiki/Juicy_(Doja_Cat_song)
 2020,88,Be Like That,Kane Brown,Swae Lee,"/wiki/Be_Like_That_(Kane_Brown,_Swae_Lee_and_Khalid_song)"
 2020,89,Homesick,Kane Brown,,/wiki/Homesick_(Kane_Brown_song)
-2020,90,Rags2Riches,Rod Wave ,ATR Son Son,/wiki/Rags2Riches_(song)
+2020,90,Rags2Riches,Rod Wave,ATR Son Son,/wiki/Rags2Riches_(song)
 2020,91,Bluebird,Miranda Lambert,,/wiki/Bluebird_(Miranda_Lambert_song)
 2020,92,Wishing Well,Juice Wrld,,/wiki/Wishing_Well_(Juice_Wrld_song)
-2020,93,Does to Me,Eric Church,,/wiki/Does_to_Me
+2020,93,Does to Me,Luke Combs,Eric Church,/wiki/Does_to_Me
 2020,94,Pussy Fairy (OTW),Jhené Aiko,,/wiki/Pussy_Fairy_(OTW)
-2020,95,ILY (I Love You Baby),Surf Mesa,,/wiki/ILY_(I_Love_You_Baby)
+2020,95,ILY (I Love You Baby),Surf Mesa,Emilee,/wiki/ILY_(I_Love_You_Baby)
 2020,96,More Than My Hometown,Morgan Wallen,,/wiki/More_Than_My_Hometown
 2020,97,Lovin' on You,Luke Combs,,/wiki/Lovin%27_on_You
 2020,98,Said Sum,Moneybagg Yo,,/wiki/Said_Sum
 2020,99,Slide,H.E.R.,YG,/wiki/Slide_(H.E.R._song)
-2020,100,Walk Em Down,NLE Choppa,,/wiki/Walk_Em_Down
+2020,100,Walk Em Down,NLE Choppa,Roddy Ricch,/wiki/Walk_Em_Down
 2021,1,Levitating,Dua Lipa,,/wiki/Levitating_(song)
 2021,2,Save Your Tears,The Weeknd,Ariana Grande,/wiki/Save_Your_Tears
 2021,3,Blinding Lights,The Weeknd,,/wiki/Blinding_Lights
@@ -6211,7 +6211,7 @@ Year,Place,Title,Artist,Featuring,Title_url
 2021,9,Montero (Call Me by Your Name),Lil Nas X,,/wiki/Montero_(Call_Me_by_Your_Name)
 2021,10,Peaches,Justin Bieber,Daniel Caesar,/wiki/Peaches_(Justin_Bieber_song)
 2021,11,Butter,BTS,,/wiki/Butter_(song)
-2021,12,Stay,The Kid Laroi,,/wiki/Stay_(The_Kid_Laroi_and_Justin_Bieber_song)
+2021,12,Stay,The Kid Laroi,Justin Bieber,/wiki/Stay_(The_Kid_Laroi_and_Justin_Bieber_song)
 2021,13,Deja Vu,Olivia Rodrigo,,/wiki/Deja_Vu_(Olivia_Rodrigo_song)
 2021,14,Positions,Ariana Grande,,/wiki/Positions_(song)
 2021,15,Bad Habits,Ed Sheeran,,/wiki/Bad_Habits_(Ed_Sheeran_song)
@@ -6220,21 +6220,21 @@ Year,Place,Title,Artist,Featuring,Title_url
 2021,18,Forever After All,Luke Combs,,/wiki/Forever_After_All
 2021,19,Go Crazy,Chris Brown,Young Thug,/wiki/Go_Crazy_(Chris_Brown_and_Young_Thug_song)
 2021,20,Astronaut in the Ocean,Masked Wolf,,/wiki/Astronaut_in_the_Ocean
-2021,21,34+35,Megan Thee Stallion,,/wiki/34%2B35
+2021,21,34+35,Ariana Grande,Doja Cat,/wiki/34%2B35
 2021,22,What You Know Bout Love,Pop Smoke,,/wiki/What_You_Know_Bout_Love
 2021,23,My Ex's Best Friend,Machine Gun Kelly,Blackbear,/wiki/My_Ex%27s_Best_Friend
-2021,24,Industry Baby,Jack Harlow,,/wiki/Industry_Baby
+2021,24,Industry Baby,Lil Nas X,Jack Harlow,/wiki/Industry_Baby
 2021,25,Therefore I Am,Billie Eilish,,/wiki/Therefore_I_Am_(Billie_Eilish_song)
 2021,26,Up,Cardi B,,/wiki/Up_(Cardi_B_song)
 2021,27,Fancy Like,Walker Hayes,,/wiki/Fancy_Like
 2021,28,Dakiti,Bad Bunny,Jhay Cortez,/wiki/Dakiti
-2021,29,Best Friend,Saweetie,,/wiki/Best_Friend_(Saweetie_song)
+2021,29,Best Friend,Saweetie,Doja Cat,/wiki/Best_Friend_(Saweetie_song)
 2021,30,Rapstar,Polo G,,/wiki/Rapstar
 2021,31,Heartbreak Anniversary,Giveon,,/wiki/Heartbreak_Anniversary
-2021,32,For the Night,Lil Baby,DaBaby,/wiki/For_the_Night
+2021,32,For the Night,Pop Smoke,Lil Baby,/wiki/For_the_Night
 2021,33,Calling My Phone,Lil Tjay,6lack,/wiki/Calling_My_Phone
-2021,34,Beautiful Mistakes,Maroon 5,,/wiki/Beautiful_Mistakes
-2021,35,Holy,Chance the Rapper,,/wiki/Holy_(Justin_Bieber_song)
+2021,34,Beautiful Mistakes,Maroon 5,Megan Thee Stallion,/wiki/Beautiful_Mistakes
+2021,35,Holy,Justin Bieber,Chance the Rapper,/wiki/Holy_(Justin_Bieber_song)
 2021,36,On Me,Lil Baby,,/wiki/On_Me_(Lil_Baby_song)
 2021,37,You Broke Me First,Tate McRae,,/wiki/You_Broke_Me_First
 2021,38,Traitor,Olivia Rodrigo,,/wiki/Traitor_(song)
@@ -6243,11 +6243,11 @@ Year,Place,Title,Artist,Featuring,Title_url
 2021,41,Dynamite,BTS,,/wiki/Dynamite_(BTS_song)
 2021,42,Wockesha,Moneybagg Yo,,/wiki/Wockesha
 2021,43,You Right,Doja Cat and the Weeknd,,/wiki/You_Right
-2021,44,Beat Box,SpotemGottem,,/wiki/Beat_Box_(SpotemGottem_song)
-2021,45,Laugh Now Cry Later,Drake,,/wiki/Laugh_Now_Cry_Later
+2021,44,Beat Box,SpotemGottem,Pooh Shiesty or DaBaby,/wiki/Beat_Box_(SpotemGottem_song)
+2021,45,Laugh Now Cry Later,Drake,Lil Durk,/wiki/Laugh_Now_Cry_Later
 2021,46,Need to Know,Doja Cat,,/wiki/Need_to_Know_(Doja_Cat_song)
-2021,47,Wants and Needs,Drake ,Lil Baby,/wiki/Wants_and_Needs
-2021,48,Way 2 Sexy,Future,,/wiki/Way_2_Sexy
+2021,47,Wants and Needs,Drake,Lil Baby,/wiki/Wants_and_Needs
+2021,48,Way 2 Sexy,Drake,Future,/wiki/Way_2_Sexy
 2021,49,Telepatía,Kali Uchis,,/wiki/Telepat%C3%ADa
 2021,50,Whoopty,CJ,,/wiki/Whoopty
 2021,51,Lemonade,Internet Money,Gunna,/wiki/Lemonade_(Internet_Money_and_Gunna_song)
@@ -6257,14 +6257,14 @@ Year,Place,Title,Artist,Featuring,Title_url
 2021,55,Willow,Taylor Swift,,/wiki/Willow_(song)
 2021,56,Bang!,AJR,,/wiki/Bang!_(AJR_song)
 2021,57,Better Together,Luke Combs,,/wiki/Better_Together_(Luke_Combs_song)
-2021,58,You're Mines Still,Yung Bleu,,/wiki/You%27re_Mines_Still
-2021,59,Every Chance I Get,DJ Khaled,,/wiki/Every_Chance_I_Get_(song)
-2021,60,Essence,Wizkid,Tems,/wiki/Essence_(song)
+2021,58,You're Mines Still,Yung Bleu,Drake,/wiki/You%27re_Mines_Still
+2021,59,Every Chance I Get,DJ Khaled,Lil Baby and Lil Durk,/wiki/Every_Chance_I_Get_(song)
+2021,60,Essence,Wizkid,Justin Bieber,/wiki/Essence_(song)
 2021,61,Chasing After You,Ryan Hurd,Maren Morris,/wiki/Chasing_After_You
 2021,62,The Good Ones,Gabby Barrett,,/wiki/The_Good_Ones_(Gabby_Barrett_song)
 2021,63,Leave Before You Love Me,Marshmello,Jonas Brothers,/wiki/Leave_Before_You_Love_Me
 2021,64,Glad You Exist,Dan + Shay,,/wiki/Glad_You_Exist
-2021,65,Lonely,Benny Blanco,,/wiki/Lonely_(Justin_Bieber_and_Benny_Blanco_song)
+2021,65,Lonely,Justin Bieber,Benny Blanco,/wiki/Lonely_(Justin_Bieber_and_Benny_Blanco_song)
 2021,66,Beggin',Måneskin,,/wiki/Beggin%27#Måneskin_version
 2021,67,Streets,Doja Cat,,/wiki/Streets_(song)
 2021,68,What's Next,Drake,,/wiki/What%27s_Next_(Drake_song)
@@ -6276,16 +6276,16 @@ Year,Place,Title,Artist,Featuring,Title_url
 2021,74,Anyone,Justin Bieber,,/wiki/Anyone_(Justin_Bieber_song)
 2021,75,Track Star,Mooski,,/wiki/Track_Star_(song)
 2021,76,Time Today,Moneybagg Yo,,/wiki/Time_Today
-2021,77,Cry Baby,Megan Thee Stallion ,DaBaby,/wiki/Cry_Baby_(Megan_Thee_Stallion_song)
+2021,77,Cry Baby,Megan Thee Stallion,DaBaby,/wiki/Cry_Baby_(Megan_Thee_Stallion_song)
 2021,78,All I Want for Christmas Is You,Mariah Carey,,/wiki/All_I_Want_for_Christmas_Is_You
-2021,79,No More Parties,Coi Leray,,/wiki/No_More_Parties
+2021,79,No More Parties,Coi Leray,Lil Durk,/wiki/No_More_Parties
 2021,80,What's Your Country Song,Thomas Rhett,,/wiki/What%27s_Your_Country_Song
 2021,81,One Too Many,Keith Urban,Pink,/wiki/One_Too_Many_(song)
 2021,82,Arcade,Duncan Laurence,,/wiki/Arcade_(song)
 2021,83,Yonaguni,Bad Bunny,,/wiki/Yonaguni_(song)
 2021,84,Good Time,Niko Moon,,/wiki/Good_Time_(Niko_Moon_song)
 2021,85,If I Didn't Love You,Jason Aldean,Carrie Underwood,/wiki/If_I_Didn%27t_Love_You_(Jason_Aldean_and_Carrie_Underwood_song)
-2021,86,Knife Talk,21 Savage,Project Pat,/wiki/Knife_Talk
+2021,86,Knife Talk,Drake,21 Savage,/wiki/Knife_Talk
 2021,87,POV,Ariana Grande,,/wiki/POV_(song)
 2021,88,Just the Way,Parmalee,Blanco Brown,/wiki/Just_the_Way
 2021,89,Take My Breath,The Weeknd,,/wiki/Take_My_Breath
