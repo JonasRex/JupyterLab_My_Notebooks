@@ -163,7 +163,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2013,62,Demons,Imagine Dragons,,/wiki/Demons_(Imagine_Dragons_song),2013,Pop rock,,,2:57,KIDinaKORNER,2,Alex da Kid,Ben McKee,https://www.youtube.com/watch?v=mWRsgZuwf_8
 2013,63,Counting Stars,OneRepublic,,/wiki/Counting_Stars_(song),2013,Folk-pop,Pop rock,Dance-pop,4:19,Mosley,2,Ryan Tedder,,https://www.youtube.com/watch?v=hT_nvWreIhg
 2013,64,I Cry,Flo Rida,,/wiki/I_Cry_(Flo_Rida_song),2012,,,,3:42,Poe Boy,2,Alex Schwartz,Joe Khajadourian,https://www.youtube.com/watch?v=OLuWHr6-0YQ
-2013,65,Little Talks,Of Monsters,Men,/wiki/Little_Talks,2011,Indie folk,Alternative rock,,4:26,Universal Republic,1,Nanna Bryndís Hilmarsdóttir,Ragnar Þórhallsson,https://www.youtube.com/watch?v=ghb6eDopW8I
+2013,65,Little Talks,Of Monsters and Men,,/wiki/Little_Talks,2011,Indie folk,Alternative rock,,4:26,Universal Republic,1,Nanna Bryndís Hilmarsdóttir,Ragnar Þórhallsson,https://www.youtube.com/watch?v=ghb6eDopW8I
 2013,66,The Other Side,Jason Derulo,,/wiki/The_Other_Side_(Jason_Derulo_song),2013,Dance-pop,Edm,,3:46,Atlantic,1,Jason Desrouleaux,Martin Johnson,https://www.youtube.com/watch?v=byp94CCWKSI
 2013,67,Berzerk,Eminem,,/wiki/Berzerk_(song),2013,Rap rock,,,3:58,Aftermath,3,Marshall Mathers,William Squier,https://www.youtube.com/watch?v=ab9176Srb5Y
 2013,68,Catch My Breath,Kelly Clarkson,,/wiki/Catch_My_Breath,2012,Electropop,,,4:10,RCA,1,Kelly Clarkson,Jason Halbert,https://www.youtube.com/watch?v=HEValZuFYRU
@@ -764,9 +764,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2019,63,Beer Never Broke My Heart,Luke Combs,,/wiki/Beer_Never_Broke_My_Heart,2019,Country,,,3:06,Columbia Nashville,1,Luke Combs,Randy Montana,
 2019,64,The London,Young Thug,J. Cole,/wiki/The_London_(song),2019,Hip hop,,,3:20,300,2,Jeffery Williams,Jermaine Cole,https://www.youtube.com/watch?v=G8Hp-AKrfm0
 2019,65,Con Calma,Daddy Yankee,Katy Perry,/wiki/Con_Calma,2019,Reggaeton,Dancehall,,3:12,El Cartel,1,Ramón Ayala,Darrin O'Brien,https://www.youtube.com/watch?v=DiItGE3eAyQ
-2019,66,Murder on My Mind,YNW Melly,,/wiki/Murder_on_My_Mind,2018,,,,4:29,300,1,"
-Jamell Demons
-Eduardo Hernandez[",,https://www.youtube.com/watch?v=hqDinxaPUK4
+2019,66,Murder on My Mind,YNW Melly,,/wiki/Murder_on_My_Mind,2018,,,,4:29,300,1,Jamell Demons,Eduardo Hernandez,https://www.youtube.com/watch?v=hqDinxaPUK4
 2019,67,When the Party's Over,Billie Eilish,,/wiki/When_the_Party%27s_Over_(song),2018,Pop,,,3:16,Interscope,1,Finneas O'Connell,,https://www.youtube.com/watch?v=pbMwTqkKSps
 2019,68,Act Up,City Girls,,/wiki/Act_Up_(song),2019,,,,2:38,Quality Control,3,Jatavia Johnson,Miles McCollum,https://www.youtube.com/watch?v=F_VsAvS1kuo
 2019,69,I Like It,Cardi B,Bad Bunny,"/wiki/I_Like_It_(Cardi_B,_Bad_Bunny_and_J_Balvin_song)",2018,Latin trap,Hip hop,,4:13,Atlantic,1,Belcalis Almanzar,Benito Ocasio,https://www.youtube.com/watch?v=xTlNMmZKwpA
@@ -814,7 +812,7 @@ Eduardo Hernandez[",,https://www.youtube.com/watch?v=hqDinxaPUK4
 2020,11,Say So,Doja Cat,,/wiki/Say_So,2020,Pop,Disco,Pop-rap,3:58,Kemosabe,2,Amala Dlamini,Lukasz Gottwald,https://www.youtube.com/watch?v=marAFsQo3VE
 2020,12,I Hope,Gabby Barrett,Charlie Puth,/wiki/I_Hope_(Gabby_Barrett_song),2019,Country,Country pop,,3:30,Warner Music Nashville,1,Gabby Barrett,Zach Kale,https://www.youtube.com/watch?v=qcCH6JpcK5w
 2020,13,Whats Poppin,Jack Harlow,"DaBaby, ",/wiki/Whats_Poppin,2020,Hip hop,,,2:19,Atlantic,1,Jackman Harlow,Tahj Morgan,https://www.youtube.com/watch?v=w9uWPBDHEKE
-2020,14,Dance Monkey,Tones,I,/wiki/Dance_Monkey,2019,Electropop,,,3:29,Elektra,1,Toni Watson,,https://www.youtube.com/watch?v=q0hyYWKXF0Q
+2020,14,Dance Monkey,Tones and I,,/wiki/Dance_Monkey,2019,Electropop,,,3:29,Elektra,1,Toni Watson,,https://www.youtube.com/watch?v=q0hyYWKXF0Q
 2020,15,Savage,Megan Thee Stallion,Beyoncé,/wiki/Savage_(Megan_Thee_Stallion_song),2020,Hip hop,,,2:36,300,1,Megan Pete,Anthony White,https://www.youtube.com/watch?v=EOxj2ROIxok
 2020,16,Roxanne,Arizona Zervas,,/wiki/Roxanne_(Arizona_Zervas_song),2019,Pop rap,,,2:43,Columbia,1,Arizona Zervas,Lauren Larue,https://www.youtube.com/watch?v=16YnOUnbE6s
 2020,17,Intentions,Justin Bieber,Quavo,/wiki/Intentions_(Justin_Bieber_song),2020,Pop,R&b,,3:32,Def Jam,1,Justin Bieber,Quavious Marshall,https://www.youtube.com/watch?v=9p2wMpVVtXg
