@@ -85,7 +85,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2012,84,Turn Up the Music,Chris Brown,,/wiki/Turn_Up_the_Music_(Chris_Brown_song),2012,Electro house,,,3:49,RCA,1,"Alexander ""Fuego"" Palmer",Chris Brown,https://www.youtube.com/watch?v=eQWG8BVeryU
 2012,85,Die Young,Kesha,,/wiki/Die_Young_(Kesha_song),2012,Electropop,Dance-pop,,3:32,RCA,2,Kesha Sebert,Lukasz Gottwald,https://www.youtube.com/watch?v=NOubzHCUt48
 2012,86,5 O'Clock,T-Pain,Wiz Khalifa,/wiki/5_O%27Clock_(T-Pain_song),2011,Hip hop,R&b,,4:41,Nappy Boy,3,Gary Barlow,Mark Owen,https://www.youtube.com/watch?v=noLrCDzAp5M
-2012,87,A Thousand Years,Christina Perri,,/wiki/A_Thousand_Years_(Christina_Perri_song),2011,,,,5:05,Atlantic Records,1,Christina Perri,David Hodges,https://www.youtube.com/watch?v=rtOvBOTyX00
+2012,87,A Thousand Years,Christina Perri,,/wiki/A_Thousand_Years_(Christina_Perri_song),2011,,,,5:05,Atlantic Records,1,Christina Perri,David Hodges (Part 1),https://www.youtube.com/watch?v=rtOvBOTyX00
 2012,88,Take a Little Ride,Jason Aldean,,/wiki/Take_a_Little_Ride,2012,Country,,,3:08,Broken Bow,1,Dylan Altman,Jim McCormick,
 2012,89,You da One,Rihanna,,/wiki/You_da_One,2011,Pop,Reggae,,3:18,Def Jam,1,Ester Dean,Lukasz Gottwald,https://www.youtube.com/watch?v=b3HeLs8Yosw
 2012,90,We Run the Night,Havana Brown,Pitbull,/wiki/We_Run_the_Night,2011,Dance-pop,Eurodance,,3:36,Island,1,Cassie Davis,"Sean Ray ""Snob Scrilla"" Mullins",
@@ -265,7 +265,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2014,64,Play It Again,Luke Bryan,,/wiki/Play_It_Again_(Luke_Bryan_song),2014,Country pop,,,3:47,Capitol Nashville,1,Dallas Davidson,Ashley Gorley,
 2014,65,2 On,Tinashe,ScHoolboy Q,/wiki/2_On,2014,Hip hop,R&b,Electro,3:51,RCA,1,Tinashe Kachingwe,Bobby Brackins,
 2014,66,Dirt,Florida Georgia Line,,/wiki/Dirt_(Florida_Georgia_Line_song),2014,Country,,,3:50,Republic Nashville,2,Rodney Clawson,Chris Tompkins,https://www.youtube.com/watch?v=rL281ucHKIs
-2014,67,Love Runs Out,OneRepublic,,/wiki/Love_Runs_Out,2014,Dance-pop,,,3:44,Mosley,2,Ryan Tedder,Brent Kutzle,
+2014,67,Love Runs Out,OneRepublic,,/wiki/Love_Runs_Out,2014,Dance-pop,Pop rock,,3:44,Mosley,2,Ryan Tedder,Brent Kutzle,
 2014,68,Bottoms Up,Brantley Gilbert,,/wiki/Bottoms_Up_(Brantley_Gilbert_song),2013,Country rock,,,3:42,Valory,1,Brantley Gilbert,Justin Weaver,
 2014,69,Shower,Becky G,,/wiki/Shower_(song),2014,Teen pop,Pop-rap,,3:26,Kemosabe,2,Lukasz Gottwald,Henry Walter,https://www.youtube.com/watch?v=50-_oTkmF5I
 2014,70,Me and My Broken Heart,Rixton,,/wiki/Me_and_My_Broken_Heart,2014,Pop,,,3:13,School Boy,2,Benjamin Levin,Ammar Malik,
@@ -415,121 +415,121 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2016,14,My House,Flo Rida,,/wiki/My_House_(Flo_Rida_song),2015,Pop-rap,Dance pop,,3:12,Poe Boy,2,Ross Golan,Johan Carlsson,https://www.youtube.com/watch?v=uo35R9zQsAI
 2016,15,I Took a Pill in Ibiza,Mike Posner,,/wiki/I_Took_a_Pill_in_Ibiza,2015,Folk pop,Tropical house,Seeb,4:40,Island,1,Mike Posner,,https://www.youtube.com/watch?v=41GZVVcxQps
 2016,16,Work from Home,Fifth Harmony,Ty Dolla Sign,/wiki/Work_from_Home_(song),2016,R&b,,,3:34,Epic,3,Daniel Bedingfield,Joshua Coleman,https://www.youtube.com/watch?v=5GL9JoH4Sws
-2016,17,This Is What You Came For,Calvin Harris,Rihanna,/wiki/This_Is_What_You_Came_For,2016,Edm,House,,3:42,[1],3,Calvin Harris,Taylor Swift,https://www.youtube.com/watch?v=kOkQ4T5WO9E
-2016,18,Cake by the Ocean,DNCE,,/wiki/Cake_by_the_Ocean,2015,Pop,R&b,Dance,3:39,Republic,1,Joseph Jonas,Justin Tranter,https://www.youtube.com/watch?v=vWaRiD5ym74
-2016,19,"Me, Myself & I",G-Eazy,Bebe Rexha,"/wiki/Me,_Myself_%26_I_(G-Eazy_and_Bebe_Rexha_song)",2015,Pop-rap,,,4:11,RCA,1,Gerald Gillum,Bleta Rexha,https://www.youtube.com/watch?v=bSfpSOBD30U
-2016,20,Ride,Twenty One Pilots,,/wiki/Ride_(Twenty_One_Pilots_song),2016,Alternative hip hop,Reggae,Dub,3:34,Fueled by Ramen,1,Tyler Joseph,,https://www.youtube.com/watch?v=Pw-0pbY9JeU
-2016,21,Heathens,Twenty One Pilots,,/wiki/Heathens_(song),2016,Rap rock,,,3:15,Atlantic,2,Tyler Joseph,,https://www.youtube.com/watch?v=UprcpdwuwCg
-2016,22,Pillowtalk,Zayn,,/wiki/Pillowtalk_(song),2016,Alternative r&b,Electronic,,3:26,RCA,1,Zayn Malik,Levi Lennox,https://www.youtube.com/watch?v=C_3d6GntKbk
-2016,23,Stitches,Shawn Mendes,,/wiki/Stitches_(Shawn_Mendes_song),2015,Pop,,,3:27,Island,3,Danny Parker,Teddy Geiger,https://www.youtube.com/watch?v=VbfpW0pbvaU
-2016,24,Hotline Bling,Drake,,/wiki/Hotline_Bling,2015,Pop,R&b,,4:27,Cash Money,3,Aubrey Graham,Paul Jefferies,https://www.youtube.com/watch?v=uxpDa-c-4Mc
-2016,25,Cold Water,Major Lazer,Justin Bieber,/wiki/Cold_Water_(song),2016,,,,3:05,Mad Decent,2,Thomas Pentz,Justin Bieber,https://www.youtube.com/watch?v=nBtDsQ4fhXY
-2016,26,Send My Love (To Your New Lover),Adele,,/wiki/Send_My_Love_(To_Your_New_Lover),2016,Pop,R&b,,3:43,XL,2,Adele Adkins,Max Martin,https://www.youtube.com/watch?v=fk4BbF7B29w
-2016,27,Roses,The Chainsmokers,Rozes,/wiki/Roses_(The_Chainsmokers_song),2015,Dance-pop,Future bass,,3:46,Disruptor,3,Clinton Pappan,Elizabeth Mencel,https://www.youtube.com/watch?v=G5Mv2iV0wkU
-2016,28,Treat You Better,Shawn Mendes,,/wiki/Treat_You_Better_(Shawn_Mendes_song),2016,Pop,,,3:07,Island,3,Mendes,Teddy Geiger,https://www.youtube.com/watch?v=lY2yjAdbvdQ
-2016,29,Too Good,Drake,Rihanna,/wiki/Too_Good_(Drake_song),2016,Dancehall,,,4:23,Young Money,3,Aubrey Graham,Robyn Fenty,
-2016,30,Low Life,Future,The Weeknd,/wiki/Low_Life_(song),2016,Trap,Hip hop,,5:13,A1,3,Nayvadius Wilburn,Abel Tesfaye,https://www.youtube.com/watch?v=K_9tX4eHztY
-2016,31,What Do You Mean?,Justin Bieber,,/wiki/What_Do_You_Mean%3F,2015,Pop,Tropical house,,3:26,Def Jam,1,Justin Bieber,Jason Boyd,https://www.youtube.com/watch?v=DK_0jXPuIr0
-2016,32,The Hills,The Weeknd,,/wiki/The_Hills_(song),2015,Alternative r&b,Trap,Industrial,4:02,XO,2,Abel Tesfaye,Emmanuel Nickerson,https://www.youtube.com/watch?v=yzTuBuRdAyA
-2016,33,Just Like Fire,P!nk,,/wiki/Just_Like_Fire,2016,,,,3:35,RCA,2,Alecia Moore,Max Martin,https://www.youtube.com/watch?v=5Nrv5teMc9Y
-2016,34,Broccoli,DRAM,Lil Yachty,/wiki/Broccoli_(D.R.A.M._song),2016,Hip hop,Trap,,3:38,Atlantic,2,Shelley Massenburg-Smith,Miles McCollum,https://www.youtube.com/watch?v=K44j-sb1SRY
-2016,35,Don't,Bryson Tiller,,/wiki/Don%27t_(Bryson_Tiller_song),2015,,,,3:18,RCA,1,Bryson Tiller,Mariah Carey,https://www.youtube.com/watch?v=d7cVLE4SaN0
-2016,36,Dangerous Woman,Ariana Grande,,/wiki/Dangerous_Woman_(song),2016,Pop,R&b,Retro soul,3:55,Republic,1,Johan Carlsson,Max Martin,https://www.youtube.com/watch?v=9WbCfHutDSE
-2016,37,Jumpman,Drake,Future,/wiki/Jumpman_(song),2015,Hip hop,Trap,,3:25,Cash Money,5,Aubrey Graham,Nayvadius Wilburn,
-2016,38,"I Hate U, I Love U",Gnash,Olivia O'Brien,"/wiki/I_Hate_U,_I_Love_U",2015,Pop,,,4:11,Atlantic,1,Garrett Nash,Olivia O'Brien,https://www.youtube.com/watch?v=BiQIc7fG9pA
-2016,39,Here,Alessia Cara,,/wiki/Here_(Alessia_Cara_song),2015,Indie pop,R&b,,3:19,Def Jam,1,Alessia Caracciolo,"Andrew ""Pop"" Wansel",https://www.youtube.com/watch?v=UKp2CrfmVfw
-2016,40,Same Old Love,Selena Gomez,,/wiki/Same_Old_Love,2015,Electropop,Synth-pop,,3:49,Interscope,1,Tor Hermansen,Mikkel Eriksen,https://www.youtube.com/watch?v=9h30Bx4Klxg
-2016,41,Controlla,Drake,,/wiki/Controlla,2016,Dancehall,,,4:05,Young Money,3,Aubrey Graham,Matthew Samuels,
-2016,42,Like I'm Gonna Lose You,Meghan Trainor,John Legend,/wiki/Like_I%27m_Gonna_Lose_You,2015,Soul,,,3:45,Epic,1,Meghan Trainor,Justin Weaver,https://www.youtube.com/watch?v=2-MBfn8XjIU
-2016,43,One Call Away,Charlie Puth,,/wiki/One_Call_Away_(Charlie_Puth_song),2015,Pop,Soul,,3:12,Atlantic,1,Charlie Puth,Justin Franks,https://www.youtube.com/watch?v=BxuY9FET9Y4
-2016,44,Let It Go,James Bay,,/wiki/Let_It_Go_(James_Bay_song),2014,Indie rock,Soul,Blues rock,4:21,Republic,1,James Bay,Paul Barry,https://www.youtube.com/watch?v=GsPq9mzFNGY
-2016,45,No,Meghan Trainor,,/wiki/No_(Meghan_Trainor_song),2016,Dance-pop,R&b,,3:33,Epic,1,Meghan Trainor,Eric Frederic,https://www.youtube.com/watch?v=cMTAUr3Nm6I
-2016,46,Never Forget You,Zara Larsson,MNEK,/wiki/Never_Forget_You_(Zara_Larsson_and_MNEK_song),2015,Edm,Electropop,,3:33,TEN,3,Uzoechi Emenike,Zara Larsson,https://www.youtube.com/watch?v=GTyN-DB_v5M
-2016,47,Let Me Love You,DJ Snake,Justin Bieber,/wiki/Let_Me_Love_You_(DJ_Snake_song),2016,Edm,Tropical house,,3:25,Interscope,1,William Grigahcine,Justin Bieber,https://www.youtube.com/watch?v=euCqAq6BRa4
-2016,48,Don't Mind,Kent Jones,,/wiki/Don%27t_Mind_(Kent_Jones_song),2016,Hip hop,,,3:18,Epidemic,3,Daryl Jones,Marcello Valenzano,https://www.youtube.com/watch?v=n49qi-dU9IE
-2016,49,H.O.L.Y.,Florida Georgia Line,,/wiki/H.O.L.Y.,2016,Country,,,3:14,Republic Nashville,1,busbee,Nate Cyphert,https://www.youtube.com/watch?v=zXDAYlhdkyg
-2016,50,We Don't Talk Anymore,Charlie Puth,Selena Gomez,/wiki/We_Don%27t_Talk_Anymore_(Charlie_Puth_song),2016,Pop,,,3:37,Atlantic,1,Charlie Puth,Jacob Kasher Hindlin,https://www.youtube.com/watch?v=3AtDnEC4zak
-2016,51,Into You,Ariana Grande,,/wiki/Into_You_(Ariana_Grande_song),2016,Dance-pop,House,Electro,4:04,Republic,1,Ariana Grande,Max Martin,https://www.youtube.com/watch?v=1ekZEVeXwek
-2016,52,Gold,Kiiara,,/wiki/Gold_(Kiiara_song),2015,Electropop,Trap,,3:45,Atlantic,1,Kiara Saulters,David Singer-Vine,https://www.youtube.com/watch?v=sO9cBXRcBvo
-2016,53,Exchange,Bryson Tiller,,/wiki/Exchange_(Bryson_Tiller_song),2016,R&b,Trap,,3:14,RCA,1,Bryson Tiller,Javalyn Hall-Johnson,
-2016,54,679,Fetty Wap,Remy Boyz,/wiki/679_(song),2015,Hip hop,,,3:16,300,1,Willie Maxwell,Remy Boyz,
-2016,55,Oui,Jeremih,,/wiki/Oui_(song),2015,R&b,Trap,,3:58,Def Jam,1,Jeremih Felton,Khari Cain,
-2016,56,Hands to Myself,Selena Gomez,,/wiki/Hands_to_Myself,2016,Dance-pop,Synth-pop,,3:20,Interscope,1,Justin Tranter,Julia Michaels,https://www.youtube.com/watch?v=FMlcn-_jpWY
-2016,57,2 Phones,Kevin Gates,,/wiki/2_Phones,2015,Hip hop,,,4:00,Atlantic,1,Kevin Gilyard,Brittany Hazzard,https://www.youtube.com/watch?v=oiY_iKSpWLM
-2016,58,Starboy,The Weeknd,Daft Punk,/wiki/Starboy_(song),2016,R&b,Electropop,,3:50,XO,2,Abel Tesfaye,Guy-Manuel de Homem-Christo,https://www.youtube.com/watch?v=34Na4j8AVgA
-2016,59,For Free,DJ Khaled,Drake,/wiki/For_Free,2016,Hip hop,,,3:03,We the Best,2,Khaled Khaled,Aubrey Graham,
-2016,60,Never Be Like You,Flume,Kai,/wiki/Never_Be_Like_You,2016,Future bass,Alternative r&b,,3:54,Future Classic,2,Harley Streten,Alessia De Gasperis-Brigante,https://www.youtube.com/watch?v=-KPnyf8vwXI
-2016,61,In the Night,The Weeknd,,/wiki/In_the_Night_(The_Weeknd_song),2015,,,,3:55,XO,2,Abel Tesfaye,Ahmad Balshe,https://www.youtube.com/watch?v=2iFa5We6zqw
-2016,62,Me Too,Meghan Trainor,,/wiki/Me_Too_(Meghan_Trainor_song),2016,Electro,R&b,,3:01,Epic,1,Meghan Trainor,Eric Frederic,https://www.youtube.com/watch?v=qDRORgoZxZU
-2016,63,Ex's & Oh's,Elle King,,/wiki/Ex%27s_%26_Oh%27s,2014,Pop rock,Blues rock,Alternative rock,3:22,RCA,1,Elle King,Dave Bassett,
-2016,64,Die a Happy Man,Thomas Rhett,,/wiki/Die_a_Happy_Man,2015,Country pop,Soft rock,,3:47,Valory,2,Thomas Rhett,Sean Douglas,
-2016,65,White Iverson,Post Malone,,/wiki/White_Iverson,2015,Trap,Cloud rap,,4:14,Republic,1,Austin Post,Trocon Roberts Jr.,https://www.youtube.com/watch?v=SLsTskih7_I
-2016,66,Close,Nick Jonas,Tove Lo,/wiki/Close_(Nick_Jonas_song),2016,,,,3:54,Island,2,Robin Fredriksson,Mattias Larsson,https://www.youtube.com/watch?v=XgJFqVvb2Ws
-2016,67,Unsteady,X Ambassadors,,/wiki/Unsteady_(X_Ambassadors_song),2015,Indie rock,,,3:13,KidinaKorner,3,Alexander Grant,Sam Harris,https://www.youtube.com/watch?v=V0lw3qylVfY
-2016,68,Sucker for Pain,Lil Wayne,Wiz Khalifa,/wiki/Sucker_for_Pain,2016,Alternative hip hop,Alternative rock,Rap rock,4:03,Atlantic,1,Dwayne Carter Jr.,Cameron Thomaz,https://www.youtube.com/watch?v=-59jGD4WrmE
-2016,69,Down in the DM,Yo Gotti,Nicki Minaj,/wiki/Down_in_the_DM,2015,Trap,,,3:01,Epic,2,Mario Mims,Khaled Khaled,
-2016,70,Luv,Tory Lanez,,/wiki/Luv_(Tory_Lanez_song),2016,Dancehall,,,3:48,Mad Love,2,Daystar Peterson,Benjamin Levin,https://www.youtube.com/watch?v=P9rFeGAdX0A
-2016,71,Sorry,Beyoncé,,/wiki/Sorry_(Beyonc%C3%A9_song),2016,Electro,R&b,,3:52,Parkwood,2,Diana Gordon,Sean Rhoden,https://www.youtube.com/watch?v=QxsmWxxouIM
-2016,72,Can't Feel My Face,The Weeknd,,/wiki/Can%27t_Feel_My_Face,2015,Pop,Disco,Funk,3:35,XO,2,Ali Payami,Savan Kotecha,https://www.youtube.com/watch?v=KEI4qSrkPAs
-2016,73,Hymn for the Weekend,Coldplay,,/wiki/Hymn_for_the_Weekend,2016,Alternative r&b,Pop rock,Art pop,4:18,Parlophone,2,Guy Berryman,Jonny Buckland,https://www.youtube.com/watch?v=YykjpeuMNEk
-2016,74,Say It,Tory Lanez,,/wiki/Say_It_(Tory_Lanez_song),2015,Hip hop,Alternative r&b,,4:26,Mad Love,2,Daystar Peterson,"Andrew ""Pop"" Wansel",
-2016,75,Antidote,Travis Scott,,/wiki/Antidote_(Travis_Scott_song),2015,Hip hop,,,4:22,Grand Hustle,2,Jacques Webster,Ebony Oshunrinde,
-2016,76,Lost Boy,Ruth B,,/wiki/Lost_Boy_(Ruth_B_song),2015,Pop,,,4:36,Columbia,2,Ruth Berhe,,https://www.youtube.com/watch?v=58TBZnvyGwQ
-2016,77,Side to Side,Ariana Grande,Nicki Minaj,/wiki/Side_to_Side,2016,Reggae fusion,Pop,Dancehall,3:46,Republic,1,Max Martin,Savan Kotecha,https://www.youtube.com/watch?v=SXiSVQZLje8
-2016,78,"Sit Still, Look Pretty",Daya,,"/wiki/Sit_Still,_Look_Pretty",2015,Synthpop,,,3:20,RED,1,Gino Barletta,Mike Campbell,
-2016,79,Wildest Dreams,Taylor Swift,,/wiki/Wildest_Dreams_(Taylor_Swift_song),2015,Dream pop,Synth-pop,,3:40,Big Machine,1,Taylor Swift,Max Martin,https://www.youtube.com/watch?v=IdneKLhsWOQ
-2016,80,Middle,DJ Snake,Bipolar Sunshine,/wiki/Middle_(DJ_Snake_song),2015,Edm,Bass music,,3:40,Interscope,1,William Grigahcine,Aaron Kleinstub,https://www.youtube.com/watch?v=IvPT2QuCIOA
-2016,81,On My Mind,Ellie Goulding,,/wiki/On_My_Mind_(Ellie_Goulding_song),2015,Electropop,R&b,,3:32,Polydor,1,Ellie Goulding,Max Martin,https://www.youtube.com/watch?v=H202k7KfZL0
-2016,82,Pop Style,Drake,Jay-Z,/wiki/Pop_Style,2016,Hip hop,,,3:29,Young Money,2,Aubrey Graham,Kanye West,
-2016,83,When We Were Young,Adele,,/wiki/When_We_Were_Young_(Adele_song),2016,Soul,,,4:50,XL,1,Adele Adkins,Tobias Jesso Jr.,
-2016,84,Hide Away,Daya,,/wiki/Hide_Away_(Daya_song),2015,Synthpop,,,3:12,RED,1,Gino Barletta,Brett McLaughlin,https://www.youtube.com/watch?v=RwHQfn0s94M
-2016,85,Lean On,Major Lazer,DJ Snake,/wiki/Lean_On,2015,Electronic,Bhangra,Moombahton,2:57,Mad Decent,1,Karen Marie Ørsted,Thomas Pentz,https://www.youtube.com/watch?v=YqeW9_5kURI
-2016,86,I Know What You Did Last Summer,Shawn Mendes,Camila Cabello,/wiki/I_Know_What_You_Did_Last_Summer_(song),2015,Pop,,,3:43,Island,1,Shawn Mendes,Camila Cabello,https://www.youtube.com/watch?v=ngORmvyvAaI
-2016,87,All the Way Up,Fat Joe,Remy Ma,/wiki/All_the_Way_Up_(Fat_Joe_and_Remy_Ma_song),2016,Hip hop,,,3:11,Empire,1,Joseph Cartagena,Reminisce Mackie,https://www.youtube.com/watch?v=y2ak_oBeC-I
-2016,88,Watch Me,Silentó,,/wiki/Watch_Me_(Whip/Nae_Nae),2015,Snap,,,3:05,Capitol,1,Ricky Hawk,Timothy Mingo,https://www.youtube.com/watch?v=vjW8wmF5VWc
-2016,89,Back to Sleep,Chris Brown,,/wiki/Back_to_Sleep_(song),2015,R&b,,,3:21,RCA Records,1,Chris Brown,August Rigo,https://www.youtube.com/watch?v=OQLuhelCaDQ
-2016,90,No Limit,Usher,Young Thug,/wiki/No_Limit_(Usher_song),2016,R&b,Trap,,3:48,RCA,1,Usher Raymond IV,Brandon Hodge,
-2016,91,Cut It,O.T. Genasis,Young Dolph,/wiki/Cut_It_(song),2015,Hip hop,Trap,,3:42,Conglomerate,2,Odis Flores,Adolph Thornton Jr.,
-2016,92,Really Really,Kevin Gates,,/wiki/Really_Really_(song),2015,Hip hop,,,3:52,Atlantic,1,Kevin Gilyard,Jake Troth,
-2016,93,All In My Head (Flex),Fifth Harmony,Fetty Wap,/wiki/All_In_My_Head_(Flex),2016,Reggae,Trap,,3:30,Epic,2,Mikkel Eriksen,Tor Hermansen,https://www.youtube.com/watch?v=jsbeemdD2rQ
-2016,94,Starving,Hailee Steinfeld,Grey,/wiki/Starving_(song),2016,Pop,Rock,Edm,3:01,Republic,2,Michael Trewartha,Kyle Trewartha,https://www.youtube.com/watch?v=xwjwCFZpdns
-2016,95,Adventure of a Lifetime,Coldplay,,/wiki/Adventure_of_a_Lifetime,2015,Disco,Pop rock,Funk,4:23,Parlophone,2,Guy Berryman,Jonny Buckland,https://www.youtube.com/watch?v=QtXby3twMmI
-2016,96,Humble and Kind,Tim McGraw,,/wiki/Humble_and_Kind,2016,Country,,,4:20,Big Machine,1,Lori McKenna,,
-2016,97,Wicked,Future,,/wiki/Wicked_(Future_song),2016,Hip hop,Trap,,2:53,A1,3,Nayvadius Wilburn,Leland Wayne,https://www.youtube.com/watch?v=3gt-rxxs-RQ
-2016,98,Tiimmy Turner,Desiigner,,/wiki/Tiimmy_Turner,2016,Hip hop,Trap,,3:59,GOOD,2,Sidney Selby III,Mike Dean,
-2016,99,See You Again,Wiz Khalifa,Charlie Puth,/wiki/See_You_Again,2015,Hip hop,Pop rap,,3:50,Atlantic,1,Cameron Thomaz,Charlie Puth,https://www.youtube.com/watch?v=RgKAFK5djSk
-2016,100,Perfect,One Direction,,/wiki/Perfect_(One_Direction_song),2015,,,,3:50,Syco,2,Harry Styles,Louis Tomlinson,https://www.youtube.com/watch?v=Ho32Oh6b4jc
-2017,1,Shape of You,Ed Sheeran,,/wiki/Shape_of_You,2017,Pop,Dancehall,R&b,3:54,Asylum,2,Ed Sheeran,Johnny McDaid,https://www.youtube.com/watch?v=JGwWNGJdvx8
-2017,2,Despacito (Remix),Luis Fonsi,Daddy Yankee,/wiki/Despacito,2017,Reggaeton,Latin pop,,3:47,Universal Latin,1,Luis Fonsi,Erika Ender,https://www.youtube.com/watch?v=kJQP7kiw5Fk
-2017,3,That's What I Like,Bruno Mars,,/wiki/That%27s_What_I_Like_(Bruno_Mars_song),2017,Hip hop soul,New jack swing,R&b,3:26,Atlantic,1,Bruno Mars,Philip Lawrence,https://www.youtube.com/watch?v=PMivT7MJ41M
-2017,4,Humble,Kendrick Lamar,,/wiki/Humble_(Kendrick_Lamar_song),2017,Hip hop,,,2:57,Top Dawg,3,Kendrick Duckworth,Michael Williams II,https://www.youtube.com/watch?v=tvTRZJ-4EyI&t
-2017,5,Something Just Like This,The Chainsmokers,Coldplay,/wiki/Something_Just_Like_This,2017,Edm,Pop,,4:07,Disruptor,2,Andrew Taggart,Guy Berryman,https://www.youtube.com/watch?v=FM7MFYoylVs
-2017,6,Bad and Boujee,Migos,Lil Uzi Vert,/wiki/Bad_and_Boujee,2016,Hip hop,Trap,,5:43,Quality Control,3,Quavious Keyate Marshall,Kiari Kendrell Cephus,https://www.youtube.com/watch?v=S-sJp1FfG7Q
-2017,7,Closer,The Chainsmokers,Halsey,/wiki/Closer_(The_Chainsmokers_song),2016,Future bass,Pop,,4:04,Disruptor,2,Andrew Taggart,Ashley Frangipane,
-2017,8,Body Like a Back Road,Sam Hunt,,/wiki/Body_Like_a_Back_Road,2017,Country pop,,,2:40,MCA Nashville,1,Sam Hunt,Zach Crowell,https://www.youtube.com/watch?v=Fx-EfjsRcBk
-2017,9,Believer,Imagine Dragons,,/wiki/Believer_(Imagine_Dragons_song),2017,Arena rock,Pop rock,,3:24,Interscope,2,Dan Reynolds,Wayne Sermon,https://www.youtube.com/watch?v=7wtfhZwyrcc
-2017,10,Congratulations,Post Malone,Quavo,/wiki/Congratulations_(Post_Malone_song),2017,Trap,,,3:40,Republic,1,Austin Post,Quavious Marshall,https://www.youtube.com/watch?v=SC4xMk98Pdc&t
-2017,11,Say You Won't Let Go,James Arthur,,/wiki/Say_You_Won%27t_Let_Go,2016,Pop,Folk,R&b,3:31,Columbia,1,James Arthur,Andrew Frampton,https://www.youtube.com/watch?v=0yW7w8F2TVA
-2017,12,I'm the One,DJ Khaled,Justin Bieber,/wiki/I%27m_the_One_(DJ_Khaled_song),2017,Hip hop,Pop-rap,,4:49,We the Best,2,DJ Khaled,Justin Bieber,https://www.youtube.com/watch?v=weeI1G46q0o
-2017,13,XO Tour Llif3,Lil Uzi Vert,,/wiki/XO_Tour_Llif3,2017,Emo rap,,,3:02,Atlantic,1,Symere Woods,Bryan Simmons,https://www.youtube.com/watch?v=WrsFXgQk5UI
-2017,14,Mask Off,Future,,/wiki/Mask_Off,2017,Hip hop,Trap,,4:21,A1,3,Nayvadius Wilburn,Leland Wayne,https://www.youtube.com/watch?v=xvZqHgFz51I
-2017,15,Unforgettable,French Montana,Swae Lee,/wiki/Unforgettable_(French_Montana_song),2017,Dancehall,Hip hop,,3:53,Epic,3,Karim Kharbouch,Khalif Brown,https://www.youtube.com/watch?v=CTFtOOh47oo
-2017,16,24K Magic,Bruno Mars,,/wiki/24K_Magic_(song),2016,Funk,Disco,R&b,3:45,Atlantic,1,Bruno Mars,Philip Lawrence,https://www.youtube.com/watch?v=UqyT8IEBkvY
-2017,17,Stay,Zedd,Alessia Cara,/wiki/Stay_(Zedd_and_Alessia_Cara_song),2017,Edm,Dance-pop,,3:30,Interscope,2,Linus Wiklund,Sarah Aarons,https://www.youtube.com/watch?v=yWEK4v9AVKQ
-2017,18,Wild Thoughts,DJ Khaled,Rihanna,/wiki/Wild_Thoughts,2017,Latin pop,R&b,Pop rock,3:24,We the Best,2,Jahron Braithwaite,Khaled Khaled,https://www.youtube.com/watch?v=fyaI4-5849w
-2017,19,Black Beatles,Rae Sremmurd,Gucci Mane,/wiki/Black_Beatles,2016,Hip hop,Trap,,4:51,EarDrummers,2,Khalif Brown,Aaquil Brown,https://www.youtube.com/watch?v=7hCdjhQ1_Gc
-2017,20,Starboy,The Weeknd,Daft Punk,/wiki/Starboy_(song),2016,R&b,Electropop,,3:50,XO,2,Abel Tesfaye,Guy-Manuel de Homem-Christo,https://www.youtube.com/watch?v=34Na4j8AVgA
-2017,21,Location,Khalid,,/wiki/Location_(Khalid_song),2016,Alternative r&b,,,3:37,RCA,1,Khalid Robinson,Joshua Scruggs,
-2017,22,Attention,Charlie Puth,,/wiki/Attention_(Charlie_Puth_song),2017,Pop rock,,,3:28,Artist Partner,2,Charlie Puth,Jacob Kasher,https://www.youtube.com/watch?v=nfs8NYg7yQM
-2017,23,There's Nothing Holdin' Me Back,Shawn Mendes,,/wiki/There%27s_Nothing_Holdin%27_Me_Back,2017,Pop rock,Folktronica,,3:25,Island,2,Shawn Mendes,Teddy Geiger,https://www.youtube.com/watch?v=dT2owtxkU8k
-2017,24,Bodak Yellow,Cardi B,,/wiki/Bodak_Yellow,2017,Hip hop,Trap,,3:43,Atlantic,1,Belcalis Almánzar,Dieuson Octave,https://www.youtube.com/watch?v=PEGccV-NOm8
-2017,25,Redbone,Childish Gambino,,/wiki/Redbone_(song),2016,Psychedelic funk,,,5:27,Glassnote,1,Donald Glover,Ludwig Göransson,
-2017,26,I Don't Wanna Live Forever,Zayn,Taylor Swift,/wiki/I_Don%27t_Wanna_Live_Forever,2016,Electropop,Electro-r&b,,4:05,Republic,1,Taylor Swift,Sam Dew,https://www.youtube.com/watch?v=7F37r50VUTQ
-2017,27,It Ain't Me,Kygo,Selena Gomez,/wiki/It_Ain%27t_Me,2017,Edm,Tropical house,Pop,3:40,Interscope,4,Kyrre Gørvell-Dahll,Brian Lee,https://www.youtube.com/watch?v=u3VTKvdAuIY
-2017,28,iSpy,Kyle,Lil Yachty,/wiki/ISpy_(Kyle_song),2016,Hip hop,Pop-rap,R&b,4:14,Atlantic,1,Kyle Harvey,Miles McCollum,https://www.youtube.com/watch?v=5XK4v2fgMPU
-2017,29,Issues,Julia Michaels,,/wiki/Issues_(Julia_Michaels_song),2017,Pop,,,2:56,Republic,1,Julia Michaels,Benjamin Levin,https://www.youtube.com/watch?v=9Ke4480MicU
-2017,30,Scars to Your Beautiful,Alessia Cara,,/wiki/Scars_to_Your_Beautiful,2016,Pop,Synth-pop,,3:50,Def Jam,1,Alessia Caracciolo,Warren Felder,https://www.youtube.com/watch?v=MWASeaYuHZo
-2017,31,1-800-273-8255,Logic,Alessia Cara,/wiki/1-800-273-8255_(song),2017,Conscious hip hop,Pop-rap,Emo rap,4:10,Visionary,2,Sir Robert Bryson Hall II,Dylan Wiggins,https://www.youtube.com/watch?v=Kb24RrHIbFk
+2016,17,This Is What You Came For,Calvin Harris,Rihanna,/wiki/This_Is_What_You_Came_For,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,18,Cake by the Ocean,DNCE,,/wiki/Cake_by_the_Ocean,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,19,"Me, Myself & I",G-Eazy,Bebe Rexha,"/wiki/Me,_Myself_%26_I_(G-Eazy_and_Bebe_Rexha_song)",ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,20,Ride,Twenty One Pilots,,/wiki/Ride_(Twenty_One_Pilots_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,21,Heathens,Twenty One Pilots,,/wiki/Heathens_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,22,Pillowtalk,Zayn,,/wiki/Pillowtalk_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,23,Stitches,Shawn Mendes,,/wiki/Stitches_(Shawn_Mendes_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,24,Hotline Bling,Drake,,/wiki/Hotline_Bling,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,25,Cold Water,Major Lazer,Justin Bieber,/wiki/Cold_Water_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,26,Send My Love (To Your New Lover),Adele,,/wiki/Send_My_Love_(To_Your_New_Lover),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,27,Roses,The Chainsmokers,Rozes,/wiki/Roses_(The_Chainsmokers_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,28,Treat You Better,Shawn Mendes,,/wiki/Treat_You_Better_(Shawn_Mendes_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,29,Too Good,Drake,Rihanna,/wiki/Too_Good_(Drake_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,30,Low Life,Future,The Weeknd,/wiki/Low_Life_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,31,What Do You Mean?,Justin Bieber,,/wiki/What_Do_You_Mean%3F,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,32,The Hills,The Weeknd,,/wiki/The_Hills_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,33,Just Like Fire,P!nk,,/wiki/Just_Like_Fire,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,34,Broccoli,DRAM,Lil Yachty,/wiki/Broccoli_(D.R.A.M._song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,35,Don't,Bryson Tiller,,/wiki/Don%27t_(Bryson_Tiller_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,36,Dangerous Woman,Ariana Grande,,/wiki/Dangerous_Woman_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,37,Jumpman,Drake,Future,/wiki/Jumpman_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,38,"I Hate U, I Love U",Gnash,Olivia O'Brien,"/wiki/I_Hate_U,_I_Love_U",ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,39,Here,Alessia Cara,,/wiki/Here_(Alessia_Cara_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,40,Same Old Love,Selena Gomez,,/wiki/Same_Old_Love,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,41,Controlla,Drake,,/wiki/Controlla,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,42,Like I'm Gonna Lose You,Meghan Trainor,John Legend,/wiki/Like_I%27m_Gonna_Lose_You,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,43,One Call Away,Charlie Puth,,/wiki/One_Call_Away_(Charlie_Puth_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,44,Let It Go,James Bay,,/wiki/Let_It_Go_(James_Bay_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,45,No,Meghan Trainor,,/wiki/No_(Meghan_Trainor_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,46,Never Forget You,Zara Larsson,MNEK,/wiki/Never_Forget_You_(Zara_Larsson_and_MNEK_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,47,Let Me Love You,DJ Snake,Justin Bieber,/wiki/Let_Me_Love_You_(DJ_Snake_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,48,Don't Mind,Kent Jones,,/wiki/Don%27t_Mind_(Kent_Jones_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,49,H.O.L.Y.,Florida Georgia Line,,/wiki/H.O.L.Y.,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,50,We Don't Talk Anymore,Charlie Puth,Selena Gomez,/wiki/We_Don%27t_Talk_Anymore_(Charlie_Puth_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,51,Into You,Ariana Grande,,/wiki/Into_You_(Ariana_Grande_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,52,Gold,Kiiara,,/wiki/Gold_(Kiiara_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,53,Exchange,Bryson Tiller,,/wiki/Exchange_(Bryson_Tiller_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,54,679,Fetty Wap,Remy Boyz,/wiki/679_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,55,Oui,Jeremih,,/wiki/Oui_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,56,Hands to Myself,Selena Gomez,,/wiki/Hands_to_Myself,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,57,2 Phones,Kevin Gates,,/wiki/2_Phones,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,58,Starboy,The Weeknd,Daft Punk,/wiki/Starboy_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,59,For Free,DJ Khaled,Drake,/wiki/For_Free,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,60,Never Be Like You,Flume,Kai,/wiki/Never_Be_Like_You,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,61,In the Night,The Weeknd,,/wiki/In_the_Night_(The_Weeknd_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,62,Me Too,Meghan Trainor,,/wiki/Me_Too_(Meghan_Trainor_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,63,Ex's & Oh's,Elle King,,/wiki/Ex%27s_%26_Oh%27s,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,64,Die a Happy Man,Thomas Rhett,,/wiki/Die_a_Happy_Man,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,65,White Iverson,Post Malone,,/wiki/White_Iverson,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,66,Close,Nick Jonas,Tove Lo,/wiki/Close_(Nick_Jonas_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,67,Unsteady,X Ambassadors,,/wiki/Unsteady_(X_Ambassadors_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,68,Sucker for Pain,Lil Wayne,Wiz Khalifa,/wiki/Sucker_for_Pain,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,69,Down in the DM,Yo Gotti,Nicki Minaj,/wiki/Down_in_the_DM,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,70,Luv,Tory Lanez,,/wiki/Luv_(Tory_Lanez_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,71,Sorry,Beyoncé,,/wiki/Sorry_(Beyonc%C3%A9_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,72,Can't Feel My Face,The Weeknd,,/wiki/Can%27t_Feel_My_Face,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,73,Hymn for the Weekend,Coldplay,,/wiki/Hymn_for_the_Weekend,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,74,Say It,Tory Lanez,,/wiki/Say_It_(Tory_Lanez_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,75,Antidote,Travis Scott,,/wiki/Antidote_(Travis_Scott_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,76,Lost Boy,Ruth B,,/wiki/Lost_Boy_(Ruth_B_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,77,Side to Side,Ariana Grande,Nicki Minaj,/wiki/Side_to_Side,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,78,"Sit Still, Look Pretty",Daya,,"/wiki/Sit_Still,_Look_Pretty",ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,79,Wildest Dreams,Taylor Swift,,/wiki/Wildest_Dreams_(Taylor_Swift_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,80,Middle,DJ Snake,Bipolar Sunshine,/wiki/Middle_(DJ_Snake_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,81,On My Mind,Ellie Goulding,,/wiki/On_My_Mind_(Ellie_Goulding_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,82,Pop Style,Drake,Jay-Z,/wiki/Pop_Style,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,83,When We Were Young,Adele,,/wiki/When_We_Were_Young_(Adele_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,84,Hide Away,Daya,,/wiki/Hide_Away_(Daya_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,85,Lean On,Major Lazer,DJ Snake,/wiki/Lean_On,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,86,I Know What You Did Last Summer,Shawn Mendes,Camila Cabello,/wiki/I_Know_What_You_Did_Last_Summer_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,87,All the Way Up,Fat Joe,Remy Ma,/wiki/All_the_Way_Up_(Fat_Joe_and_Remy_Ma_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,88,Watch Me,Silentó,,/wiki/Watch_Me_(Whip/Nae_Nae),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,89,Back to Sleep,Chris Brown,,/wiki/Back_to_Sleep_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,90,No Limit,Usher,Young Thug,/wiki/No_Limit_(Usher_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,91,Cut It,O.T. Genasis,Young Dolph,/wiki/Cut_It_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,92,Really Really,Kevin Gates,,/wiki/Really_Really_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,93,All In My Head (Flex),Fifth Harmony,Fetty Wap,/wiki/All_In_My_Head_(Flex),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,94,Starving,Hailee Steinfeld,Grey,/wiki/Starving_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,95,Adventure of a Lifetime,Coldplay,,/wiki/Adventure_of_a_Lifetime,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,96,Humble and Kind,Tim McGraw,,/wiki/Humble_and_Kind,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,97,Wicked,Future,,/wiki/Wicked_(Future_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,98,Tiimmy Turner,Desiigner,,/wiki/Tiimmy_Turner,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,99,See You Again,Wiz Khalifa,Charlie Puth,/wiki/See_You_Again,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2016,100,Perfect,One Direction,,/wiki/Perfect_(One_Direction_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,1,Shape of You,Ed Sheeran,,/wiki/Shape_of_You,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,2,Despacito (Remix),Luis Fonsi,Daddy Yankee,/wiki/Despacito,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,3,That's What I Like,Bruno Mars,,/wiki/That%27s_What_I_Like_(Bruno_Mars_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,4,Humble,Kendrick Lamar,,/wiki/Humble_(Kendrick_Lamar_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,5,Something Just Like This,The Chainsmokers,Coldplay,/wiki/Something_Just_Like_This,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,6,Bad and Boujee,Migos,Lil Uzi Vert,/wiki/Bad_and_Boujee,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,7,Closer,The Chainsmokers,Halsey,/wiki/Closer_(The_Chainsmokers_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,8,Body Like a Back Road,Sam Hunt,,/wiki/Body_Like_a_Back_Road,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,9,Believer,Imagine Dragons,,/wiki/Believer_(Imagine_Dragons_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,10,Congratulations,Post Malone,Quavo,/wiki/Congratulations_(Post_Malone_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,11,Say You Won't Let Go,James Arthur,,/wiki/Say_You_Won%27t_Let_Go,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,12,I'm the One,DJ Khaled,Justin Bieber,/wiki/I%27m_the_One_(DJ_Khaled_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,13,XO Tour Llif3,Lil Uzi Vert,,/wiki/XO_Tour_Llif3,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,14,Mask Off,Future,,/wiki/Mask_Off,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,15,Unforgettable,French Montana,Swae Lee,/wiki/Unforgettable_(French_Montana_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,16,24K Magic,Bruno Mars,,/wiki/24K_Magic_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,17,Stay,Zedd,Alessia Cara,/wiki/Stay_(Zedd_and_Alessia_Cara_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,18,Wild Thoughts,DJ Khaled,Rihanna,/wiki/Wild_Thoughts,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,19,Black Beatles,Rae Sremmurd,Gucci Mane,/wiki/Black_Beatles,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,20,Starboy,The Weeknd,Daft Punk,/wiki/Starboy_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,21,Location,Khalid,,/wiki/Location_(Khalid_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,22,Attention,Charlie Puth,,/wiki/Attention_(Charlie_Puth_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,23,There's Nothing Holdin' Me Back,Shawn Mendes,,/wiki/There%27s_Nothing_Holdin%27_Me_Back,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,24,Bodak Yellow,Cardi B,,/wiki/Bodak_Yellow,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,25,Redbone,Childish Gambino,,/wiki/Redbone_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,26,I Don't Wanna Live Forever,Zayn,Taylor Swift,/wiki/I_Don%27t_Wanna_Live_Forever,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,27,It Ain't Me,Kygo,Selena Gomez,/wiki/It_Ain%27t_Me,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,28,iSpy,Kyle,Lil Yachty,/wiki/ISpy_(Kyle_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,29,Issues,Julia Michaels,,/wiki/Issues_(Julia_Michaels_song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,30,Scars to Your Beautiful,Alessia Cara,,/wiki/Scars_to_Your_Beautiful,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+2017,31,1-800-273-8255,Logic,Alessia Cara,/wiki/1-800-273-8255_(song),ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
 2017,32,Slow Hands,Niall Horan,,/wiki/Slow_Hands_(Niall_Horan_song),2017,Funk-pop,R&b,Pop,3:07,Capitol,1,Niall Horan,Alexander Izquierdo,
 2017,33,Love on the Brain,Rihanna,,/wiki/Love_on_the_Brain,2016,Doo-wop,Soul,,3:44,Roc Nation,1,Fred Ball,Joseph Angel,https://www.youtube.com/watch?v=QMP-o8WXSPM
 2017,34,I Feel It Coming,The Weeknd,Daft Punk,/wiki/I_Feel_It_Coming,2016,Disco,Pop,,4:29,XO,2,Abel Tesfaye,Thomas Bangalter,https://www.youtube.com/watch?v=qFLhGq0060w
@@ -587,7 +587,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2017,86,Slippery,Migos,Gucci Mane,/wiki/Slippery_(song),2017,Hip hop,Trap,,5:04,Quality Control,2,Quavious Marshall,Kirsnick Ball,
 2017,87,Sign of the Times,Harry Styles,,/wiki/Sign_of_the_Times_(Harry_Styles_song),2017,Pop rock,Soft rock,,5:40,Columbia,1,Harry Styles,Jeff Bhasker,https://www.youtube.com/watch?v=qN4ooNx77u0
 2017,88,Water Under the Bridge,Adele,,/wiki/Water_Under_the_Bridge_(song),2016,Pop,Soul,,4:00,Columbia,1,Adele Adkins,Greg Kurstin,https://www.youtube.com/watch?v=l8djdhhFuxo
-2017,89,Malibu,Miley Cyrus,,/wiki/Malibu_(Miley_Cyrus_song),2017,Pop rock,Soft rock,,3:51,RCA,1,Miley Cyrus,Oren Yoel,https://www.youtube.com/watch?v=8j9zMok6two
+2017,89,Malibu,Miley Cyrus,,/wiki/Malibu_(Miley_Cyrus_song),2017,Pop rock,Soft rock,,3:51,RCA,1,,,https://www.youtube.com/watch?v=8j9zMok6two
 2017,90,Down,Marian Hill,,/wiki/Down_(Marian_Hill_song),2016,,,,3:28,Republic,1,Samantha Gongol,Jeremy Lloyd,https://www.youtube.com/watch?v=DpMfP6qUSBo
 2017,91,No Promises,Cheat Codes,Demi Lovato,/wiki/No_Promises_(Cheat_Codes_song),2017,House,,,3:43,300,3,Ari Leff,Trevor Dahl,https://www.youtube.com/watch?v=jn40gqhxoSY
 2017,92,Treat You Better,Shawn Mendes,,/wiki/Treat_You_Better_(Shawn_Mendes_song),2016,Pop,,,3:07,Island,3,Mendes,Teddy Geiger,https://www.youtube.com/watch?v=lY2yjAdbvdQ
@@ -628,7 +628,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2018,27,Bad at Love,Halsey,,/wiki/Bad_at_Love,2017,Pop,,,3:01,Astralwerks,1,Ashley Frangipane,Eric Frederic,https://www.youtube.com/watch?v=xdYFuCp3m9k
 2018,28,Taste,Tyga,Offset,/wiki/Taste_(song),2018,Trap,,,3:52,Last Kings,2,Micheal Stevenson,Kiari Cephus,https://www.youtube.com/watch?v=LjxulQ1bEWg
 2018,29,Let You Down,NF,,/wiki/Let_You_Down_(NF_song),2017,Hip hop,,,3:32,Capitol,2,Nate Feuerstein,Tommee Profitt,https://www.youtube.com/watch?v=fbHbTBP_u7U
-2018,30,No Limit,G-Eazy,ASAP Rocky,/wiki/No_Limit_(G-Eazy_song),2017,Trap,,,4:05,RCA,1,Gerald Gillum,Rakim Mayers,https://www.youtube.com/watch?v=l_lblj8Cq0o
+2018,30,No Limit,G-Eazy,ASAP Rocky,/wiki/No_Limit_(G-Eazy_song),2017,Trap,Dirty rap,,4:05,RCA,1,Gerald Gillum,Rakim Mayers,https://www.youtube.com/watch?v=l_lblj8Cq0o
 2018,31,Fefe,6ix9ine,Nicki Minaj,/wiki/Fefe_(song),2018,Hip hop,Trap,,2:59,ScumGang,2,Daniel Hernandez,Onika Maraj,https://www.youtube.com/watch?v=V_MXGdSBbAI
 2018,32,Tequila,Dan + Shay,,/wiki/Tequila_(Dan_%2B_Shay_song),2018,Country pop,,,3:16,Warner Bros. Nashville,1,Dan Smyers,Nicolle Galyon,
 2018,33,Feel It Still,Portugal. The Man,,/wiki/Feel_It_Still,2017,Psychedelic pop,Funk,Alternative rock,2:43,Atlantic,1,Robert Bateman,Zachary Scott Carothers,https://www.youtube.com/watch?v=pBkHHoOIIn8
@@ -925,7 +925,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2021,24,Industry Baby,Lil Nas X,Jack Harlow,/wiki/Industry_Baby,2021,Hip hop,Pop rap,,3:32,Columbia,1,Montero Hill,Jackman Harlow,https://www.youtube.com/watch?v=UTHLKHL_whs
 2021,25,Therefore I Am,Billie Eilish,,/wiki/Therefore_I_Am_(Billie_Eilish_song),2020,Pop,R&b,Electropop,2:54,Interscope,1,Billie Eilish,Finneas O'Connell,https://www.youtube.com/watch?v=RUQl6YcMalg
 2021,26,Up,Cardi B,,/wiki/Up_(Cardi_B_song),2021,Hip hop,Pop,Trap,2:36,Atlantic,1,Belcalis Almanzar,Joshua Baker,https://www.youtube.com/watch?v=rCiBgLOcuKU
-2021,27,Fancy Like,Walker Hayes,,/wiki/Fancy_Like,2021,Country pop,Country rap,,2:41,Monument Nashville,1,Walker Hayes,Kesha Sebert,https://www.youtube.com/watch?v=G_zuB-ogIBw
+2021,27,Fancy Like,Walker Hayes,,/wiki/Fancy_Like,2021,Country pop,Country rap,,2:41,Monument Nashville,1,Walker Hayes,Kesha Sebert (remix only),https://www.youtube.com/watch?v=G_zuB-ogIBw
 2021,28,Dakiti,Bad Bunny,Jhay Cortez,/wiki/Dakiti,2020,Reggaeton,,,3:25,Rimas,1,Benito Martínez,Gabriel Mora,https://www.youtube.com/watch?v=TmKh7lAwnBI
 2021,29,Best Friend,Saweetie,Doja Cat,/wiki/Best_Friend_(Saweetie_song),2021,Hip hop,Pop-rap,,2:35,Warner,1,Diamonté Harper,Amala Dlamini,https://www.youtube.com/watch?v=_xJUCsyMQes
 2021,30,Rapstar,Polo G,,/wiki/Rapstar,2021,Trap,,,2:45,Columbia,1,Taurus Bartlett,Einer Bankz,https://www.youtube.com/watch?v=w2IhccXakkE
@@ -950,7 +950,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2021,49,Telepatía,Kali Uchis,,/wiki/Telepat%C3%ADa,2021,,,,2:40,Interscope,2,Karly-Marina Loaiza,Cristina Chiluiza,https://www.youtube.com/watch?v=bn_p95HbHoQ
 2021,50,Whoopty,CJ,,/wiki/Whoopty,2020,Drill,,,2:03,Warner,1,Christopher Soriano Jr.,Charalambos Antoniou,https://www.youtube.com/watch?v=2xWkATdMQms
 2021,51,Lemonade,Internet Money,Gunna,/wiki/Lemonade_(Internet_Money_and_Gunna_song),2020,Pop rap,Trap,,3:15,Internet Money,1,Danny Snodgrass Jr.,Nicholas Mira,https://www.youtube.com/watch?v=0opZqh_TprM
-2021,52,Good Days,SZA,,/wiki/Good_Days,2020,Alternative r&b,R&b,Pop,4:39,Top Dawg,2,Solána Rowe,Carlos Muñoz,https://www.youtube.com/watch?v=oh64haEP9g8
+2021,52,Good Days,SZA,,/wiki/Good_Days,2020,Alternative r&b,Dream pop,,4:39,Top Dawg,2,Solána Rowe,Carlos Muñoz,https://www.youtube.com/watch?v=oh64haEP9g8
 2021,53,Starting Over,Chris Stapleton,,/wiki/Starting_Over_(Chris_Stapleton_song),2020,Country,,,4:00,Mercury Nashville,1,Chris Stapleton,Mike Henderson,https://www.youtube.com/watch?v=LszRW4tW4Uc
 2021,54,Body,Megan Thee Stallion,,/wiki/Body_(Megan_Thee_Stallion_song),2020,Hip hop,Dirty rap,,2:51,1501 Certified,2,,,https://www.youtube.com/watch?v=7PBYGu4Az8s
 2021,55,Willow,Taylor Swift,,/wiki/Willow_(song),2020,Chamber folk,,,3:34,Republic,1,Taylor Swift,Aaron Dessner,https://www.youtube.com/watch?v=RsEZmictANA
@@ -987,7 +987,7 @@ Year,Place,Title,Artist,Featuring,Title_url,Released,Genre 1,Genre 2,Genre 3,Len
 2021,86,Knife Talk,Drake,21 Savage,/wiki/Knife_Talk,2021,Hip hop,Horrorcore,Gangsta rap,4:02,Republic,2,Aubrey Graham,Shéyaa Abraham-Joseph,https://www.youtube.com/watch?v=XqpQpt_cmhE
 2021,87,POV,Ariana Grande,,/wiki/POV_(song),2021,R&b,,,3:21,Republic,1,Ariana Grande,"Oliver ""Junior"" Frid",
 2021,88,Just the Way,Parmalee,Blanco Brown,/wiki/Just_the_Way,2019,Country,,,3:13,Stoney Creek,1,Matt Thomas,Kevin Bard,https://www.youtube.com/watch?v=d7PCSHdxdTw
-2021,89,Take My Breath,The Weeknd,,/wiki/Take_My_Breath,2021,Disco,Dance-pop,Funk,5:51,XO,2,Abel Tesfaye,Ahmad Balshe,https://www.youtube.com/watch?v=rhTl_OyehF8
+2021,89,Take My Breath,The Weeknd,,/wiki/Take_My_Breath,2021,Disco,Dance-pop,Funk,5:53,XO,2,Abel Tesfaye,Ahmad Balshe,https://www.youtube.com/watch?v=rhTl_OyehF8
 2021,90,We're Good,Dua Lipa,,/wiki/We%27re_Good,2021,Tropical-pop,,,2:45,Warner,1,Dua Lipa,Sylvester Willy Sivertsen,https://www.youtube.com/watch?v=jr47YisIsz8
 2021,91,Hell of a View,Eric Church,,/wiki/Hell_of_a_View,2020,Country,,,2:55,EMI Nashville,1,Eric Church,Casey Beathard,https://www.youtube.com/watch?v=BIBMEMUbZVg
 2021,92,Rockin' Around the Christmas Tree,Brenda Lee,,/wiki/Rockin%27_Around_the_Christmas_Tree,1958,Rockabilly,Christmas,,2:02,Decca,1,Johnny Marks,,https://www.youtube.com/watch?v=RLpr0zVFwMg
