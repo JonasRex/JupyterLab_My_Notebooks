@@ -7,7 +7,7 @@ Name,Main Artist,Featuring Artist,Writer
 20 Fingers,1,0,0
 21 Savage,2,4,0
 24kGoldn,2,0,0
-2Pac,6,1,0
+2Pac,6,1,6
 3 Doors Down,8,0,0
 3LW,1,0,0
 3OH!3,2,1,0
@@ -82,7 +82,7 @@ Ahmad A. Lewis,0,0,1
 Ahmad Balshe,0,0,5
 Ahmet Ertegun,0,0,1
 Aimee Mayo,0,0,1
-Akon,8,11,3
+Akon,8,11,15
 Al B. Sure!,0,0,1
 Al Bell,0,0,1
 Al Green,0,0,1
@@ -121,7 +121,6 @@ Algernod Washington,0,0,2
 Ali Payami,0,0,2
 Ali Shaheed Muhammad,0,0,2
 Ali Tamposi,0,0,3
-Aliaune Thiam,0,0,12
 Alice Deejay,1,0,0
 Alicia Keys,12,5,16
 Alisa Yarbrough,0,0,1
@@ -503,7 +502,6 @@ Cale Dodds,0,0,1
 Caleb Followill,0,0,2
 Cali Swag District,1,0,0
 Calum Hood,0,0,2
-Calvin Broadus,0,0,13
 Calvin Harris,10,2,9
 Calvin Lewis,0,0,1
 Calvin Woods,0,0,1
@@ -1020,7 +1018,7 @@ Emanuel Kiriakou,0,0,2
 Emeli Sandé,1,0,1
 Emilee,0,1,0
 Emily Warren,0,0,2
-Eminem,17,4,0
+Eminem,17,4,20
 Emmanuel Nickerson,0,0,2
 En Vogue,5,1,0
 Enigma,1,0,0
@@ -1431,8 +1429,7 @@ Jasiel Robinson,0,0,3
 "Jason ""Jay E"" Epperson",0,0,2
 Jason Aldean,9,0,0
 Jason Boyd,0,0,3
-Jason Derulo,11,1,0
-Jason Desrouleaux,0,0,12
+Jason Derulo,11,1,12
 Jason Epperson,0,0,1
 Jason Evigan,0,0,2
 Jason Farmer,0,0,1
@@ -1865,7 +1862,7 @@ La Roux,1,0,0
 La'Mar Johnson,0,0,1
 LaShawn Daniels,0,0,5
 Lady Antebellum,6,0,0
-Lady Gaga,15,0,2
+Lady Gaga,15,0,15
 Lady Saw,0,2,0
 Lafabian Williams,0,0,1
 Lainey Wilson,1,0,1
@@ -2076,7 +2073,6 @@ Maroon 5,25,0,0
 Marqueze Etheridge,0,0,1
 Marrico King,0,0,1
 Marsha Ambrosius,0,0,2
-Marshall Mathers,0,0,20
 Marshmello,5,2,3
 Marti Frederiksen,0,0,2
 Martie Maguire,0,0,1
@@ -2318,7 +2314,7 @@ Nick Wheeler,0,0,4
 Nick van de Wall,0,0,1
 Nickelback,11,0,1
 Nicki French,1,0,0
-Nicki Minaj,8,17,0
+Nicki Minaj,8,17,11
 Nickolas Ashford,0,0,2
 Nicky Jam,2,0,0
 Nico & Vinz,1,0,0
@@ -2379,7 +2375,7 @@ Omari Grandberry,0,0,1
 Omarion,3,1,1
 One Direction,6,0,0
 OneRepublic,9,0,0
-Onika Maraj,0,0,14
+Onika Maraj,0,0,3
 Onyx,1,0,0
 Oren Yoel,0,0,1
 Orianthi,1,0,0
@@ -2585,7 +2581,7 @@ Ricky Hawk,0,0,2
 Ricky Martin,3,0,0
 Rico Love,0,0,2
 Right Said Fred,1,0,0
-Rihanna,32,12,0
+Rihanna,32,12,5
 Rikrok,0,1,0
 Rita Ora,0,1,1
 Ritt Momney,1,0,0
@@ -2625,7 +2621,6 @@ Robin Lerner,0,0,1
 Robin S.,1,0,0
 Robin Thicke,3,0,3
 Robyn,2,0,2
-Robyn Fenty,0,0,5
 Rocko,1,0,0
 Rod Stewart,2,1,0
 Rod Temperton,0,0,1
@@ -2824,7 +2819,7 @@ Sleepy Brown,0,1,0
 Slim Thug,0,1,0
 Smash Mouth,2,0,0
 Snap!,2,0,0
-Snoop Dogg,8,5,0
+Snoop Dogg,8,5,13
 Snow,1,0,0
 Snow Patrol,2,0,0
 Social House,0,1,0
@@ -2864,7 +2859,6 @@ Stefan Forrest,0,0,1
 Stefan Gordy,0,0,2
 Stefan K. Gordy,0,0,1
 Stefan Kendal Gordy,0,0,2
-Stefani Germanotta,0,0,13
 Stella Bennett,0,0,1
 Stephan Jenkins,0,0,5
 Stephan Moccio,0,0,4
@@ -3047,14 +3041,12 @@ Tim Lever,0,0,1
 Tim McGraw,10,2,0
 Tim Middleton,0,0,1
 Tim Mitchell,0,0,1
-Tim Mosley,0,0,16
 Tim Nichols,0,0,1
-Timbaland,5,5,8
+Timbaland,5,5,35
 Timberlake,16,6,21
 Timmy Allen,0,0,1
 "Timothy ""Attitude"" Clayton",0,0,1
 Timothy Mingo,0,0,2
-Timothy Mosley,0,0,11
 Timothy Thomas,0,0,1
 Tina Turner,1,0,0
 Tinashe,1,0,1
@@ -3151,7 +3143,6 @@ Troyton Rami,0,0,1
 Truth Hurts,1,0,0
 Tulisa Contostavlos,0,0,1
 Tully Kennedy,0,0,1
-Tupac Shakur,0,0,6
 Tweet,1,0,0
 Twenty One Pilots,4,0,0
 Twista,2,1,0
@@ -3252,7 +3243,6 @@ Will Jennings,0,0,2
 Will Smith,4,0,0
 Willa Ford,1,0,1
 Willard Smith,0,0,2
-William Adams,0,0,16
 William DuVall,0,0,1
 William Griffin,0,0,1
 William Grigahcine,0,0,5
@@ -3320,5 +3310,5 @@ busbee,0,0,2
 iLoveMemphis,1,0,0
 soFLY & Nius,0,0,1
 soulDecision,1,0,0
-will.i.am,2,5,2
+will.i.am,2,5,18
 Örjan Öban Öberg,0,0,1
