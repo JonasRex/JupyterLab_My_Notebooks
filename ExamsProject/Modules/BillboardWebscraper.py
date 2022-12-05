@@ -115,8 +115,8 @@ def save_billboard_raw_data(data, save_as):
     file.to_csv ('data/'+save_as, index = False, header=True)
 
 
-def load_billboard_raw_data(name):
-    return pd.read_csv('data/'+name)
+def load_billboard_raw_data():
+    return pd.read_csv('data/raw_top100_1959_2021.csv')
 
 
 # Different masks
@@ -135,3 +135,8 @@ def find_year(df, year):
 
 def find_place(df, place):
     return df[df['Place'] == place]
+
+def find_periode(df, start, end):
+    mask = (df['Year'] >= start) & (df['Year'] <= end)
+    return df[mask].reset_index(drop=True)
+    

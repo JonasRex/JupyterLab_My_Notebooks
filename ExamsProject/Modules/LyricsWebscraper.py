@@ -3,8 +3,11 @@ import bs4
 import requests
 import re
 
+
 def load_dataframe():
-    return pd.read_csv('data/year1992_2021_test.csv')
+    file = "data_1989_2008"
+    print(file, "Loaded")
+    return pd.read_csv(f'data/{file}.csv')
 
 def get_year_from_df(df, year):
     return df[df['Year'] == year].reset_index(drop=True)
@@ -25,6 +28,11 @@ def fetch_lyric(row):
     
     return get_lyrics_via_search(title, artist)
 
+def apply_lyrics_to_df(df):
+    """Reads the txt files in the data/lyrics folder and Applys them to the dataframe."""
+    df['Lyrics'] = df.apply(lambda row: load_lyrics(row), axis=1)
+    return df[["Year","Place","Title","Artist","Genre 1","Lyrics"]]
+
 def save_lyrics(title, artist, year, lyrics):
     name = get_storing_name(title, artist)
     try:
@@ -34,17 +42,27 @@ def save_lyrics(title, artist, year, lyrics):
         print("The 'docs' directory does not exist")
 
 
-def load_lyrics(year, title, artist):
+def load_lyrics(row):
     text = ""
-    name = get_storing_name(title, artist)
-    
-    with open (f'data/lyrics/{year}/{name}.txt', "r") as myfile:
-        data = myfile.read().splitlines()
-        for line in data:
-            #print(line)
-            text += line + '\n'
 
-    return text
+    year = row['Year']
+    title = row['Title']
+    artist = row['Artist']
+
+    name = get_storing_name(title, artist)
+
+    try:    
+        with open (f'data/lyrics/{year}/{name}.txt', "r") as myfile:
+            data = myfile.read().splitlines()
+            for line in data:
+                if('[' not in line and '(' not in line):
+                    #print(line)
+                    text += line + '\n'
+
+        return text
+
+    except Exception as e:
+        return text
 
 def underscore_title_artist(title, artist):
     return f'{title} {artist}'.replace(" ", "_")
@@ -68,7 +86,7 @@ def fetch_lyrics_year(df, year):
     
     
     result = fetch_all_lyrics_from_df(df_lyrics)
-    print("Songs without or too short lyrics:", result[result['Lyrics'] == ''].shape[0])
+    print(f'Songs without or too short lyrics in {year}:', result[result['Lyrics'] == ''].shape[0])
     
     return result
 
@@ -126,8 +144,8 @@ def get_lyrics_via_search(title, artist):
             #print("Splitting the title!")
             new_title = title.split('(')
             result = get_lyrics_via_search(new_title[0], artist)
-        else:
-            print(artist, title ," had no Result!")
+        #else:
+            #print(artist, title ," had no Result!")
 
     
     # Some lyrics are incomplete. One song was only one verse. http://www.mldb.org/song-233265-when-i-look-into-your-eyes.html
@@ -199,3 +217,13 @@ def check_artist(artist):
 def remove_line_breaks(text):
     splitted = [x for x in text.split('\n') if '[' not in x ]
     return ' '.join(splitted)
+
+
+# Load / Save
+
+def save_as_csv(df, name):
+    df.to_csv ('data/lyrics/dataframes/' + name + '.csv', index = False, header=True)
+    return name +".csv Saved!"
+
+def load_from_csv(name):
+    return pd.read_csv('data/lyrics/dataframes/' + name + '.csv')

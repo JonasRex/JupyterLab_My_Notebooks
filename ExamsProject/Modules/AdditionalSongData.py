@@ -3,6 +3,44 @@ import requests
 import re
 import pandas as pd
 
+
+
+# Fetching the data for the whole Billboard Dataframe.
+
+def get_all_additional_data(dataframe):
+    new_dict = dict()
+    
+    # Can't use NaN link. Breaks the build
+    df = pd.DataFrame(dataframe['Title_url'].fillna(""))
+    
+    for index, row in df.iterrows():
+        data = get_additional_song_data(row['Title_url'])
+        
+        # Testing. Want to be able to find out where it goes wrong
+        print('Fetcing:',row['Title_url'])
+        
+        new_dict[index] = data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9]
+
+    new_df = convert_additional_data_into_df(new_dict)
+
+    return merge_dataframes(dataframe, new_df)
+
+
+def convert_additional_data_into_df(song_data):
+    data_list = []
+    #for index, value in song_data.items():
+    for index , data in song_data.items():
+        list_song = [data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9]]
+        data_list.append(list_song)
+    return pd.DataFrame(data_list, columns= ['Released', 'Genre 1' ,'Genre 2', 'Genre 3', 'Length', 'Label', 'Total Labels', 'Writer 1', 'Writer 2', 'Youtube'] )
+   
+
+def merge_dataframes(left, right):
+    return pd.merge(left , right, left_index=True, right_index=True)
+
+
+
+
 # Everything to do with fetching just one song
 
 def get_additional_song_data(link):
@@ -246,39 +284,6 @@ def split_comma_separated_names(names):
     return new_list
 
 
-
-# Fetching the data for the whole Billboard Dataframe.
-
-def get_all_additional_data(dataframe):
-    new_dict = dict()
-    
-    # Can't use NaN link. Breaks the build
-    df = pd.DataFrame(dataframe['Title_url'].fillna(""))
-    
-    for index, row in df.iterrows():
-        data = get_additional_song_data(row['Title_url'])
-        
-        # Testing. Want to be able to find out where it goes wrong
-        print('Fetcing:',row['Title_url'])
-        
-        new_dict[index] = data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9]
-
-    new_df = convert_additional_data_into_df(new_dict)
-
-    return merge_dataframes(dataframe, new_df)
-
-
-def convert_additional_data_into_df(song_data):
-    data_list = []
-    #for index, value in song_data.items():
-    for index , data in song_data.items():
-        list_song = [data[0],data[1],data[2],data[3],data[4],data[5],data[6],data[7],data[8],data[9]]
-        data_list.append(list_song)
-    return pd.DataFrame(data_list, columns= ['Released', 'Genre 1' ,'Genre 2', 'Genre 3', 'Length', 'Label', 'Total Labels', 'Writer 1', 'Writer 2', 'Youtube'] )
-   
-
-def merge_dataframes(left, right):
-    return pd.merge(left , right, left_index=True, right_index=True)
 
 
 # Loading / Saving
