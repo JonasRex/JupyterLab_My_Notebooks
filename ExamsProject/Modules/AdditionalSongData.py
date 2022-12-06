@@ -38,20 +38,9 @@ def convert_additional_data_into_df(song_data):
 def merge_dataframes(left, right):
     return pd.merge(left , right, left_index=True, right_index=True)
 
-
-
-
 # Everything to do with fetching just one song
 
 def get_additional_song_data(link):
-    #result_dict = dict()
-    
-    
-    #print("==================")
-    #print(link)
-    #print("==================")
-
-    
     # All the data we want to extract (Will convert it into an Object!)
     released = ""
     genres = ["","",""]
@@ -81,8 +70,6 @@ def get_additional_song_data(link):
 
 
             for el in table:
-
-
                 if(el.find('th')):
                     th = el.select('th')
                     td = el.select('td')
@@ -135,14 +122,8 @@ def extract_released_year(element):
     
     result_list = re.findall("\d{4}", text)
     
-    
-    #print("Extracted released year!")
-    
     return(min(result_list))
     
-    #years_reg = re.compile(r"\b(19|20)\d{2}\b")
-        
-    #return [year for year in element.text.split() if re.search(years_reg, year)][0]
     
                         
 def extract_genre(element):
@@ -204,9 +185,6 @@ def extract_label(element):
     else:
         result_list = element.text.split()
     
-    
-    #print("Extracted Labels!")
-    
     # Returning originale label and the amount of different labels.
     return [[label for label in result_list][0], len(result_list)]
 
@@ -226,30 +204,6 @@ def extract_songwriter(element):
         result_list = [x.text for x in element.select('a')]
     else:
         result_list = [x.text for x in element if '<br' not in str(x)]
-
-    
-    #if(len(list_of_writers) > 0):
-    #    for x in list_of_writers:
-    #        if(x.find('a')):
-    #            result_list.append(x.find('a').text)
-    #            print("Also here")
-    #        else:
-    #            writer = x.text
-    #            if(writer != '1'):
-    #                result_list.append(writer)
-
-                    
-    #print(result_list)
-
-
-    
-    # Mighht still need this!!
-    # Sometimes the songwriters are listed a bit weird. Ends up with: '[4]'.
-    #for w in result_list[:2]:
-    #    if(re.search('\[|,', str(w)) or w == ""):
-            #result_list = [ x for x in element.text.split(', ')]
-            #result_list = [ x for x in re.split(' & |, |,|\n',element.text) if x != ""]
-    
 
     
     result_list = [writer[:-3] if re.search('\[', str(writer)) else writer for writer in result_list]
