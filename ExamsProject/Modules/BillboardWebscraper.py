@@ -62,10 +62,7 @@ def split_featuring(list):
         4. Gerry and the Pacemakers                           # ' and the ' was a common band name in the old days
         5. Puff Daddy & the Family featuring The Notorious B.I.G.  # & the Family.. Gave some troubles.. 
         """
-        
         new_list = []
-        
-        ## TODO: Refactor this code. With all the stuff I learned in the next part!
         
         for artist in list:
             if(' featuring ' in artist):

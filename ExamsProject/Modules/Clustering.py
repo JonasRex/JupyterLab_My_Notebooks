@@ -12,9 +12,7 @@ import seaborn as sns
 from yellowbrick.cluster import SilhouetteVisualizer
 
 def silhouettePlot(range_, data):
-    '''
-    we will use this function to plot a silhouette plot that helps us to evaluate the cohesion in clusters (k-means only)
-    '''
+    """we will use this function to plot a silhouette plot that helps us to evaluate the cohesion in clusters (k-means only)"""
     half_length = int(len(range_)/2)
     range_list = list(range_)
     fig, ax = plt.subplots(half_length, 2, figsize=(15,8))
@@ -26,19 +24,15 @@ def silhouettePlot(range_, data):
         sv.fit(data)
     fig.tight_layout()
     fig.show()
-    #fig.savefig("silhouette_plot.png")
 
 def elbowPlot(range_, data, figsize=(10,10)):
-    '''
-    the elbow plot function helps to figure out the right amount of clusters for a dataset
-    '''
+    """the elbow plot function helps to figure out the right amount of clusters for a dataset"""
     inertia_list = []
     for n in range_:
         kmeans = KMeans(n_clusters=n, random_state=42)
         kmeans.fit(data)
         inertia_list.append(kmeans.inertia_)
         
-    # plotting
     fig = plt.figure(figsize=figsize)
     ax = fig.add_subplot(111)
     sns.lineplot(y=inertia_list, x=range_, ax=ax)
@@ -46,12 +40,8 @@ def elbowPlot(range_, data, figsize=(10,10)):
     ax.set_ylabel("Inertia")
     ax.set_xticks(list(range_))
     fig.show()
-    #fig.savefig("elbow_plot.png")
 
 def findOptimalEps(n_neighbors, data):
-    '''
-    function to find optimal eps distance when using DBSCAN; based on this article: https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc
-    '''
     neigh = NearestNeighbors(n_neighbors=n_neighbors)
     nbrs = neigh.fit(data)
     distances, indices = nbrs.kneighbors(data)
@@ -60,11 +50,8 @@ def findOptimalEps(n_neighbors, data):
     plt.plot(distances)
 
 
-
 def progressiveFeatureSelection(df, n_clusters=3, max_features=4,):
-    '''
-    very basic implementation of an algorithm for feature selection (unsupervised clustering); inspired by this post: https://datascience.stackexchange.com/questions/67040/how-to-do-feature-selection-for-clustering-and-implement-it-in-python
-    '''
+    """Never used!"""
     feature_list = list(df.columns)
     selected_features = list()
     # select starting feature
@@ -115,4 +102,35 @@ def print_elbow_plot(df_standardized_sliced):
 
 def print_silhouette_plot(df_standardized_sliced):
     return silhouettePlot(range(3,9), df_standardized_sliced)
+
+
+def make_bar_chart_of_cluster(cluster_df):
+    names = cluster_df["Name"].tolist()
+    main = cluster_df["Main Artist"].tolist()
+    feature = cluster_df["Featuring Artist"].tolist()
+    writer = cluster_df["Writer"].tolist()
+
+
+    barWidth = 0.25
+    fig = plt.subplots(figsize =(18, 12))
+    
+    br1 = np.arange(len(main))
+    br2 = [x + barWidth for x in br1]
+    br3 = [x + barWidth for x in br2]
+    
+    # Make the plot
+    plt.bar(br1, main, color ='r', width = barWidth,
+            edgecolor ='grey', label ='Main')
+    plt.bar(br2, feature, color ='g', width = barWidth,
+            edgecolor ='grey', label ='Featuring')
+    plt.bar(br3, writer, color ='b', width = barWidth,
+            edgecolor ='grey', label ='Writer')
+    
+    # Adding Xticks
+    plt.xlabel('Arists', fontweight ='bold', fontsize = 15)
+    plt.ylabel('Entries on the charts', fontweight ='bold', fontsize = 15)
+    plt.xticks([r + barWidth for r in range(len(main))],names, rotation=45, horizontalalignment='right',fontweight='light') 
+    
+    plt.legend()
+    plt.show()
 

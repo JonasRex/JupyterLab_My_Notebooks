@@ -3,8 +3,6 @@ import requests
 import re
 import pandas as pd
 
-
-
 # Fetching the data for the whole Billboard Dataframe.
 
 def get_all_additional_data(dataframe):
@@ -41,7 +39,7 @@ def merge_dataframes(left, right):
 # Everything to do with fetching just one song
 
 def get_additional_song_data(link):
-    # All the data we want to extract (Will convert it into an Object!)
+    """All the data we want to extract (Will convert it into an Object!)"""
     released = ""
     genres = ["","",""]
     length = ""
@@ -78,27 +76,20 @@ def get_additional_song_data(link):
                         match th[0].text:
                             case "Released":
                                 released =  extract_released_year(td[0])
-                                #print("Released", extract_released_year(td[0]))
                             case "Genre":
                                 genres = extract_genre(td[0])
-                                #print("Genre:", extract_genre(td[0]))
                             case "Length":
                                 length = extract_length(td[0])
-                                #print("Length", extract_length(td[0]))
                             case "Label":
                                 label_data = extract_label(td[0])
                                 label = label_data[0]
                                 total_labels = label_data[1]
-                                #print("Label", extract_label(td[0]))
                             case "Songwriter(s)":
                                 writer = extract_songwriter(td[0])
-                                #print("Songwriter(s)", extract_songwriter(td[0]))
 
                 # Search for YT link
                 if(el.find('a', {'title': 'YouTube'})):
                     youtube = el.find('a', {'class': 'external'}).get('href')
-                    #print(el.find('a', {'class': 'external'}).get('href'))
-
 
     # Make sure the lists have the correct size. NaN will be handle when converted to df.
     if(len(genres) < 3 ):
@@ -108,7 +99,6 @@ def get_additional_song_data(link):
         writer.append('')
                 
     return [released, genres[0], genres[1], genres[2], length, label, total_labels, writer[0], writer[1], youtube]
-    
     
 
 def extract_released_year(element):
@@ -141,9 +131,6 @@ def extract_genre(element):
         result_list = [x.text for x in element.select('a')]
     else:
         result_list = element.text.split()
-    
-    
-    #print("Extracted genres!")
     
     return [genre.capitalize() for genre in result_list if re.search(letters_reg, genre)][:3]
     
@@ -194,9 +181,6 @@ def extract_songwriter(element):
     labels that the song have had. Maybe we can use that information for something interresting."""
     
     result_list = []
-    #list_of_writers = []
-    
-    #print(element)
     
     if(element.select('li')):
         result_list = [x.text for x in element.select('li')]
@@ -211,17 +195,12 @@ def extract_songwriter(element):
     
      # Change ', Jr.' to ' Jr.' and ', Sr.' to ' Sr.':
     result_list = [ x[:-5]+x[-4:] if re.search(', Jr.|, Sr.', str(x)) else x for x in result_list]
-    
-    
-
             
     result_list = split_comma_separated_names(result_list)
     
     # Need to add a blank spot if there is only one writer.
     if(len(result_list) < 2):
         result_list.append("")
-    
-    #print(result_list[:2])
     
     return result_list
 
@@ -236,9 +215,6 @@ def split_comma_separated_names(names):
         else:
             new_list.append(name)
     return new_list
-
-
-
 
 # Loading / Saving
 

@@ -97,16 +97,9 @@ def get_lyrics_via_search(title, artist):
     title = check_title(title)
     artist = check_artist(artist)
 
-    
-    search_string = f'{title} {artist}'.replace(" ", "+")
-    
-    # For testing!
-    #print("======================")
-    #print(search_string)
-    
+    search_string = f'{title} {artist}'.replace(" ", "+")    
     
     url =  "https://www.mldb.org/search?mq=" + search_string
-
 
     try:
         r = requests.get(url)
@@ -116,37 +109,21 @@ def get_lyrics_via_search(title, artist):
         return 'ERROR'
         
     soup = bs4.BeautifulSoup(r.text, 'html.parser')
-    
     if(soup.select('.songtext')):
         
         songtext = soup.select('.songtext')
-        
-        # For testing
-        #print("Single search result.")
-        
-        
         for line in songtext:
             result += line.text
         
     elif(soup.find(id='thelist')):
         table = soup.find(id='thelist')
-        
         links = table.select('.ft > a')
-        
         link = links[0].get('href')
-        
-        # For testing
-        #print(link)
-        
         result = get_lyrics_via_link(link)
     else:
         if(re.search('\(', title)):
-            #print("Splitting the title!")
             new_title = title.split('(')
             result = get_lyrics_via_search(new_title[0], artist)
-        #else:
-            #print(artist, title ," had no Result!")
-
     
     # Some lyrics are incomplete. One song was only one verse. http://www.mldb.org/song-233265-when-i-look-into-your-eyes.html
     if(len(result) <= 500):
@@ -155,7 +132,6 @@ def get_lyrics_via_search(title, artist):
     return result
     
     
-
 def get_lyrics_via_link(link):                   
     result = ''
 
