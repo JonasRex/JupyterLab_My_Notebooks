@@ -98,14 +98,15 @@ def get_topics_before_edit(df, topic_values, topic_labels):
     df_topics = pd.DataFrame(topic_values, columns = topic_labels)
     return df.join(df_topics)
 
-def get_topics_final_data(df_lyrics, topic_labels):
+def get_topics_final_data(df, topic_labels):
     # Change to either 0 or 1. So we can plot the data.
+    df_lyrics = df.copy() 
     min_value = 0.09
     for label in topic_labels:
         df_lyrics.loc[df_lyrics[label] >= min_value, label] = 1
         df_lyrics.loc[df_lyrics[label] < min_value, label] = 0
 
-    df_lyrics.drop(['Place'], axis = 1, inplace = True) 
+    df_lyrics.drop(['Place'], axis = 1, inplace=True) 
 
     # Group by year
     return df_lyrics.groupby('Year').sum().reset_index()
@@ -123,6 +124,10 @@ def make_plot(year_topics, topic_labels):
     plt.title('Topic Trend 1989 - 2008', fontsize=25)
     plt.legend(fontsize=20)
 
+
+def get_genre_count_top10(df_lyrics):
+    result = df_lyrics.groupby(['Genre 1']).size().reset_index(name='Counts').sort_values(by=['Counts'],ascending=False).reset_index(drop =True)
+    return result[:10]
 
 def get_topic_genre(topic_label, df_lyrics):
     topic = df_lyrics[df_lyrics[topic_label] >= 0.1]
